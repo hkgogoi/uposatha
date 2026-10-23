@@ -1,0 +1,182 @@
+UPOSATHA v15 — AUDIO ATTRIBUTION
+21 October 2026
+
+Namo Tassa
+File: /namo-tassa.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5314/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: ce2a2be2f8557732056b1d035f85d4c75d13ac0c595793217f0d9694fa2db015
+
+Great Compassion Dhāraṇī
+File: /audio/maha-great-compassion-dharani.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5320/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 92d8849e221632750996b19c9272d8a13ab8a27dd7a8aaa3bb7731ea0d071936
+
+Heart Sūtra mantra
+File: /audio/maha-heart-sutra-mantra.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5323/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 65d5017d27ab0a27f1f21584d94af44bc7000d53514af02139cccbb84fdd0653
+
+Homage to Śākyamuni Buddha
+File: /audio/maha-shakyamuni-homage.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5316/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: ea200a5c133e3393b61522e6497892496d460d3d7f9ab3e8290a09e60b1c0825
+
+Homage to Great Compassion Guanyin
+File: /audio/maha-great-compassion-guanyin.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5319/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 507ea8495124e20d05fc1342cc7d395a4a723f06be7d8348468c3f5bb083b6b4
+
+Namo Guanyin Bodhisattva
+File: /audio/maha-namo-guanyin.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5321/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 30f62050dd1325c782de0ed9e74ebe2655a527dffcb9ea736319733ccafc7f16
+
+Heart Sūtra — Mandarin recitation
+File: /audio/maha-heart-sutra-mandarin.mp3
+Artist / attribution: Nyarlathotep1001
+Date: 2025
+Source: https://commons.wikimedia.org/wiki/File:Bore_Xinjing_%E8%88%AC%E8%8B%A5%E5%BF%83%E7%BB%8F_%28Heart_Sutra%29_in_Mandarin_recited_by_a_Chinese_Buddhist_layperson_2.ogg
+License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Converted from Ogg to MP3 for playback compatibility; no cuts or remix.
+SHA-256: 96a9d526d8b058e07531372812820b712a5dae4b8beb8b5ec7d86c282b6338a7
+
+Śūraṅgama / Sitātapatrā Dhāraṇī — excerpt
+File: /audio/maha-sitatapatra-dharani-excerpt.mp3
+Artist / attribution: Attributed to Ven. Hsuan Hua by Wikimedia Commons; excerpt: Ms Sarah Welch
+Date: 2006 / excerpt 2018
+Source: https://commons.wikimedia.org/wiki/File:Usnidha_Sitatapatra_dharani%2C_Siddham_chant_and_Buddhist_Sanskrit_mantra_chant_420_590.ogg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Converted from Ogg to MP3 for playback compatibility; no cuts or remix.
+SHA-256: a0c45e9c3d601073033e43c12ecf895bfa2ac1b12b49b3653832fa325805e6e6
+
+Heart Sūtra — Japanese recitation
+File: /audio/japanese-heart-sutra.mp3
+Artist / attribution: Yodo Sasaki and congregation; recording: kennymiyoshi
+Date: 2016
+Source: https://commons.wikimedia.org/wiki/File:Heart_Sutra.oga
+License: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
+Changes: Converted from Ogg to MP3 for playback compatibility; no cuts or remix.
+SHA-256: 9dbccde331f67e7a7f60edfa404539d0e76981b6103a91a1b7bb805d7cce0c96
+
+Mettā Sutta
+File: /audio/theravada-metta-sutta.mp3
+Artist / attribution: Ariya B. Baumann
+Date: 2007
+Source: https://dharmaseed.org/talks/4748/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: d4f1fc9f9c3bd00612b5d438ed0412bfb847345395a2e6cba4c7d37a2537a123
+
+Āṭānāṭiya Paritta Gāthā
+File: /audio/theravada-atanatiya-paritta.mp3
+Artist / attribution: Ariya B. Baumann
+Date: 2007
+Source: https://dharmaseed.org/talks/4739/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 97aed8c56012a08f098de4bd01c0de5cae5f87fd18a0918d73986e5725d12871
+
+Itipi So — recollection of the Triple Jewel
+File: /audio/theravada-itipi-so.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5315/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 96d06a870aef127bf2adc1cac38be0580722d19f6f8efaf9081275b0dc4477de
+
+Buddham Varantam Sirasa Namami
+File: /audio/theravada-buddham-varantam.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5317/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: c346ea0d241d25bd752a30e5440ed4401a8e0bfccb96158e88bbdcb68aacb54f
+
+Mettā chant I
+File: /audio/theravada-metta-chant-1.mp3
+Artist / attribution: Ariya B. Baumann
+Date: 2007
+Source: https://dharmaseed.org/talks/4744/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 31bd8025a77dbdbf8b411f222e3be396d42e1404e97929239564159231f13c80
+
+Mettā chant II
+File: /audio/theravada-metta-chant-2.mp3
+Artist / attribution: Ariya B. Baumann
+Date: 2007
+Source: https://dharmaseed.org/talks/4745/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 2f98139923535584d468f69e7401925f7b855ba48e1329079bf16bdc53d637bd
+
+Dedication and sharing of merit
+File: /audio/theravada-dedication-merit.mp3
+Artist / attribution: Ariya B. Baumann
+Date: 2007
+Source: https://dharmaseed.org/talks/4742/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 5a570723ca3ad1d4b2408b9fb1dc238dbd5b04a8693114d1dc4787b3fef21a6b
+
+Om Mani Padme Hum
+File: /audio/tibetan-om-mani-padme-hum.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5322/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: ef7936a7eb3108005f28e988f6775a4e0a80d3a38e7d47990d7e4de5b7a7933e
+
+Śākyamuni Buddha mantra
+File: /audio/tibetan-shakyamuni-mantra.mp3
+Artist / attribution: Kittisaro & Thanissara
+Date: 2004
+Source: https://dharmaseed.org/talks/5318/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 5f991e9f19f5b5088dffd4207d9c0efd177badd84b4c9efc611ff0e16f430257
+
+Tārā mantra — Om Tare
+File: /audio/tibetan-om-tare.mp3
+Artist / attribution: Anam Thubten
+Date: 2016
+Source: https://dharmaseed.org/talks/39024/
+License: CC BY-NC-ND 4.0 — https://creativecommons.org/licenses/by-nc-nd/4.0/
+Changes: Original recording, unmodified.
+SHA-256: 2fe5f060673c3e0b11d9f9ad0e5c607ad07eb57027ecfcf48e154bb4dfeaf3d1
+
+Japanese Heart Sutra original credited recording: https://www.youtube.com/watch?v=aaFp-UfgbBw
+Sitatapatra excerpt source recording: https://archive.org/details/Shurangama_Mantra_005_Devanagari_Version
+Sitatapatra excerpt prepared by Wikimedia contributor Ms Sarah Welch; source page attributes the chant to Ven. Hsuan Hua.
+Any rights in the MP3 format conversion of the Sitatapatra excerpt are offered under CC BY-SA 3.0.
+No recording was trimmed, remixed, speed-changed or normalized in this update.
+Dharma Seed recordings retain their original bytes and embedded metadata.
+Instrumental music is the pre-existing original track from Uposatha v14.
+No endorsement by any creator, monastery, Dharma Seed or Wikimedia is implied.

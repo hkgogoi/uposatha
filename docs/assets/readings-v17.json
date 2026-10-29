@@ -1,0 +1,2713 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "language": "English",
+      "translator": "Bhikkhu Sujato",
+      "license": "CC0 1.0 · Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Complete translation, preserved from SuttaCentral. Paragraph and verse layout adapted for reading; wording is unchanged. Line-joining markup is removed.",
+      "id": "dhammapada",
+      "title": "Dhammapada",
+      "subtitle": "Sayings of the Dhamma",
+      "tradition": "Early Buddhism",
+      "reference": "Dhp 1–423",
+      "kind": "26 chapters · 423 verses",
+      "description": "The complete collection, one short verse at a time: the mind, kindness, care and freedom.",
+      "sourceUrl": "https://suttacentral.net/dhp1-20/en/sujato",
+      "sections": [
+        {
+          "title": "1. Pairs",
+          "reference": "Verses 1–20",
+          "sourceUrl": "https://suttacentral.net/dhp1-20/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp1",
+              "label": "1",
+              "text": "Intention is the leader of things;\nintention is first, they’re made by intention.\nIf with corrupt intent\nyou speak or act,\nsuffering follows you,\nlike a wheel, the ox’s foot."
+            },
+            {
+              "ref": "dhp2",
+              "label": "2",
+              "text": "Intention is the leader of things;\nintention is first, they’re made by intention.\nIf with pure intent\nyou speak or act,\nhappiness follows you\nlike a shadow that never leaves."
+            },
+            {
+              "ref": "dhp3",
+              "label": "3",
+              "text": "“They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear such a grudge,\nhatred is never laid to rest."
+            },
+            {
+              "ref": "dhp4",
+              "label": "4",
+              "text": "“They abused me, they hit me!\nThey beat me, they robbed me!”\nFor those who bear no such grudge,\nhatred is laid to rest."
+            },
+            {
+              "ref": "dhp5",
+              "label": "5",
+              "text": "For never is hatred\nlaid to rest by hate,\nit’s laid to rest by love:\nthis is an ancient teaching."
+            },
+            {
+              "ref": "dhp6",
+              "label": "6",
+              "text": "When others do not understand,\nlet us, who do understand this,\nrestrain ourselves in this regard;\nfor that is how conflicts are laid to rest."
+            },
+            {
+              "ref": "dhp7",
+              "label": "7",
+              "text": "Those who contemplate the beautiful,\ntheir faculties unrestrained,\nimmoderate in eating,\nlazy, lacking energy:\nMāra strikes them down\nlike the wind, a feeble tree."
+            },
+            {
+              "ref": "dhp8",
+              "label": "8",
+              "text": "Those who contemplate the ugly,\ntheir faculties well-restrained,\neating in moderation,\nfaithful and energetic:\nMāra cannot strike them down,\nlike the wind, a rocky mountain."
+            },
+            {
+              "ref": "dhp9",
+              "label": "9",
+              "text": "One who, not free of stains themselves,\nwould wear the robe stained in ocher,\nbereft of self-control and truth:\nthey are not worthy of the ocher robe."
+            },
+            {
+              "ref": "dhp10",
+              "label": "10",
+              "text": "One who’s purged all their stains,\nsteady in ethics,\npossessed of self-control and of truth,\nthey are truly worthy of the ocher robe."
+            },
+            {
+              "ref": "dhp11",
+              "label": "11",
+              "text": "Thinking the inessential is essential,\nseeing the essential as inessential;\nthey don’t realize the essential,\nfor wrong thoughts are their habitat."
+            },
+            {
+              "ref": "dhp12",
+              "label": "12",
+              "text": "Having known the essential as essential,\nand the inessential as inessential;\nthey realize the essential,\nfor right thoughts are their habitat."
+            },
+            {
+              "ref": "dhp13",
+              "label": "13",
+              "text": "Just as rain seeps into\na poorly roofed house,\nlust seeps into\nan undeveloped mind."
+            },
+            {
+              "ref": "dhp14",
+              "label": "14",
+              "text": "Just as rain doesn’t seep into\na well roofed house,\nlust doesn’t seep into\na well developed mind."
+            },
+            {
+              "ref": "dhp15",
+              "label": "15",
+              "text": "Here they grieve, hereafter they grieve,\nan evildoer grieves in both places.\nThey grieve and fret,\nseeing their own corrupt deeds."
+            },
+            {
+              "ref": "dhp16",
+              "label": "16",
+              "text": "Here they rejoice, hereafter they rejoice,\none who does good rejoices in both places.\nThey rejoice and celebrate,\nseeing their own pure deeds."
+            },
+            {
+              "ref": "dhp17",
+              "label": "17",
+              "text": "Here they’re tormented, hereafter they’re tormented,\nan evildoer is tormented in both places.\nThey’re tormented thinking of bad things they’ve done;\nwhen gone to a bad place, they’re tormented all the more."
+            },
+            {
+              "ref": "dhp18",
+              "label": "18",
+              "text": "Here they delight, hereafter they delight,\none who does good delights in both places.\nThey delight thinking of good things they’ve done;\nwhen gone to a good place, they delight all the more."
+            },
+            {
+              "ref": "dhp19",
+              "label": "19",
+              "text": "Much though they may recite scripture,\nif a negligent person does not apply them,\nthen, like a cowherd who counts the cattle of others,\nthey miss out on the blessings of the ascetic life."
+            },
+            {
+              "ref": "dhp20",
+              "label": "20",
+              "text": "Little though they may recite scripture,\nif they live in line with the teaching,\nhaving given up greed, hate, and delusion,\nwith deep understanding and heart well freed,\nnot grasping to this life or the next,\nthey share in the blessings of the ascetic life."
+            }
+          ]
+        },
+        {
+          "title": "2. Diligence",
+          "reference": "Verses 21–32",
+          "sourceUrl": "https://suttacentral.net/dhp21-32/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp21",
+              "label": "21",
+              "text": "Heedfulness is the state free of death;\nheedlessness is the state of death.\nThe heedful do not die,\nwhile the heedless are like the dead."
+            },
+            {
+              "ref": "dhp22",
+              "label": "22",
+              "text": "Understanding this distinction\nwhen it comes to heedfulness,\nthe astute rejoice in heedfulness,\nhappy in the noble ones’ domain."
+            },
+            {
+              "ref": "dhp23",
+              "label": "23",
+              "text": "They who regularly meditate,\nalways staunchly vigorous;\nthe attentive realize extinguishment,\nthe supreme sanctuary from the yoke."
+            },
+            {
+              "ref": "dhp24",
+              "label": "24",
+              "text": "For the hard-working and mindful,\npure of deed and attentive,\nrestrained, living righteously, and diligent,\ntheir reputation only grows."
+            },
+            {
+              "ref": "dhp25",
+              "label": "25",
+              "text": "By hard work and diligence,\nby restraint and by self-control,\na smart person would build an island\nthat the floods cannot overflow."
+            },
+            {
+              "ref": "dhp26",
+              "label": "26",
+              "text": "Fools and simpletons\ndevote themselves to negligence.\nBut the wise protect diligence\nas their best treasure."
+            },
+            {
+              "ref": "dhp27",
+              "label": "27",
+              "text": "Don’t devote yourself to negligence,\nor delight in erotic intimacy.\nFor if you’re diligent and meditate,\nyou’ll attain abundant happiness."
+            },
+            {
+              "ref": "dhp28",
+              "label": "28",
+              "text": "When the astute dispel negligence\nby means of diligence,\nascending the palace of wisdom,\nsorrowless, they behold this generation of sorrow,\nas an attentive one on a mountain top\nbeholds the fools below."
+            },
+            {
+              "ref": "dhp29",
+              "label": "29",
+              "text": "Heedful among the heedless,\nwide awake while others sleep—\na true sage leaves them behind,\nlike a swift horse passing a feeble."
+            },
+            {
+              "ref": "dhp30",
+              "label": "30",
+              "text": "Maghavā became chief of the gods\nby means of diligence.\nPeople praise diligence,\nwhile negligence is always deplored."
+            },
+            {
+              "ref": "dhp31",
+              "label": "31",
+              "text": "A mendicant who loves diligence,\nseeing fear in negligence—\nadvances like fire,\nburning up fetters big and small."
+            },
+            {
+              "ref": "dhp32",
+              "label": "32",
+              "text": "A mendicant who loves diligence,\nseeing fear in negligence—\nsuch a one can’t decline,\nand has drawn near to extinguishment."
+            }
+          ]
+        },
+        {
+          "title": "3. The Mind",
+          "reference": "Verses 33–43",
+          "sourceUrl": "https://suttacentral.net/dhp33-43/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp33",
+              "label": "33",
+              "text": "The mind quivers and quakes,\nhard to guard, hard to curb.\nThe discerning straighten it out,\nlike a fletcher an arrow."
+            },
+            {
+              "ref": "dhp34",
+              "label": "34",
+              "text": "Like a fish pulled from the sea\nand cast upon the shore,\nthis mind flounders about,\ntrying to throw off Māra’s dominion."
+            },
+            {
+              "ref": "dhp35",
+              "label": "35",
+              "text": "Hard to hold back, flighty,\nalighting where it will;\nit’s good to tame the mind;\na tamed mind leads to bliss."
+            },
+            {
+              "ref": "dhp36",
+              "label": "36",
+              "text": "So hard to see, so subtle,\nalighting where it will;\nthe discerning protect the mind,\na guarded mind leads to bliss."
+            },
+            {
+              "ref": "dhp37",
+              "label": "37",
+              "text": "The mind travels far, wandering alone;\nincorporeal, it lies hidden in the heart.\nThose who will restrain the mind\nare freed from Māra’s bonds."
+            },
+            {
+              "ref": "dhp38",
+              "label": "38",
+              "text": "Those of unsteady mind,\nwho don’t understand the true teaching,\nand whose confidence wavers,\ndo not perfect their wisdom."
+            },
+            {
+              "ref": "dhp39",
+              "label": "39",
+              "text": "One whose mind is not festering,\nwhose heart is undamaged,\nwho’s given up right and wrong,\nalert, has nothing to fear."
+            },
+            {
+              "ref": "dhp40",
+              "label": "40",
+              "text": "Knowing this body breaks like a pot,\nand fortifying the mind like a citadel,\nattack Māra with the sword of wisdom,\nguard your conquest, and never settle."
+            },
+            {
+              "ref": "dhp41",
+              "label": "41",
+              "text": "All too soon this body\nwill lie upon the earth,\nbereft of consciousness,\ntossed aside like a worthless log."
+            },
+            {
+              "ref": "dhp42",
+              "label": "42",
+              "text": "A wrongly directed mind\nwould do you more harm\nthan a hater to the hated,\nor an enemy to their foe."
+            },
+            {
+              "ref": "dhp43",
+              "label": "43",
+              "text": "A rightly directed mind\nwould do you more good\nthan your mother or father\nor any other relative."
+            }
+          ]
+        },
+        {
+          "title": "4. Flowers",
+          "reference": "Verses 44–59",
+          "sourceUrl": "https://suttacentral.net/dhp44-59/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp44",
+              "label": "44",
+              "text": "Who bestirs this earth,\nand the Yama realm with its gods?\nWho sets out the well-taught word of truth,\nas an expert a flower?"
+            },
+            {
+              "ref": "dhp45",
+              "label": "45",
+              "text": "A trainee bestirs this earth,\nand the Yama realm with its gods.\nA trainee sets out the well-taught word of truth,\nas an expert a flower."
+            },
+            {
+              "ref": "dhp46",
+              "label": "46",
+              "text": "Knowing this body’s like foam,\nrealizing it’s all just a mirage,\nand cutting off Māra’s blossoming,\nvanish from the King of Death."
+            },
+            {
+              "ref": "dhp47",
+              "label": "47",
+              "text": "As a mighty flood sweeps off a sleeping village,\ndeath steals away a man\neven as he gathers flowers,\nhis mind caught up in them."
+            },
+            {
+              "ref": "dhp48",
+              "label": "48",
+              "text": "The terminator gains control of the man\nwho has not had his fill of pleasures,\neven as he gathers flowers,\nhis mind caught up in them."
+            },
+            {
+              "ref": "dhp49",
+              "label": "49",
+              "text": "A bee takes the nectar\nand moves on, doing no damage\nto the flower’s beauty and fragrance;\nand that’s how a sage should walk in the village."
+            },
+            {
+              "ref": "dhp50",
+              "label": "50",
+              "text": "Don’t find fault with others,\nwith what they’ve done or left undone.\nYou should only watch yourself,\nwhat you’ve done or left undone."
+            },
+            {
+              "ref": "dhp51",
+              "label": "51",
+              "text": "Just like a glorious flower\nthat’s colorful but lacks fragrance;\neloquent speech is fruitless\nfor one who does not act on it."
+            },
+            {
+              "ref": "dhp52",
+              "label": "52",
+              "text": "Just like a glorious flower\nthat’s both colorful and fragrant,\neloquent speech is fruitful\nfor one who acts on it."
+            },
+            {
+              "ref": "dhp53",
+              "label": "53",
+              "text": "Just as one would create many garlands\nfrom a heap of flowers,\nwhen a person has come to be born,\nthey should do many skillful things."
+            },
+            {
+              "ref": "dhp54",
+              "label": "54",
+              "text": "The fragrance of flowers doesn’t spread upwind,\nnor sandalwood, pinwheel, or jasmine;\nbut the fragrance of the good spreads upwind;\na true person’s virtue spreads in every direction."
+            },
+            {
+              "ref": "dhp55",
+              "label": "55",
+              "text": "Among all the fragrances—\nsandalwood or pinwheel\nor lotus or jasmine—\nthe fragrance of virtue is supreme."
+            },
+            {
+              "ref": "dhp56",
+              "label": "56",
+              "text": "Faint is the fragrance\nof sandal or pinwheel;\nbut the fragrance of the virtuous\nfloats to the highest gods."
+            },
+            {
+              "ref": "dhp57",
+              "label": "57",
+              "text": "For those accomplished in ethics,\nmeditating diligently,\nfreed through the highest knowledge,\nMāra cannot find their path."
+            },
+            {
+              "ref": "dhp58",
+              "label": "58",
+              "text": "From a heap of trash\ndiscarded on the highway,\na lotus might blossom,\nfragrant and delightful."
+            },
+            {
+              "ref": "dhp59",
+              "label": "59",
+              "text": "So too, among those thought of as trash,\na disciple of the perfect Buddha\noutshines with their wisdom\nthe blind ordinary folk."
+            }
+          ]
+        },
+        {
+          "title": "5. The Fool",
+          "reference": "Verses 60–75",
+          "sourceUrl": "https://suttacentral.net/dhp60-75/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp60",
+              "label": "60",
+              "text": "Long is the night for the wakeful;\nlong is the league for the weary;\nlong transmigrate the fools\nwho don’t understand the true teaching."
+            },
+            {
+              "ref": "dhp61",
+              "label": "61",
+              "text": "If while wandering you find no partner\nequal or better than yourself,\nthen firmly resolve to wander alone—\nthere’s no fellowship with fools."
+            },
+            {
+              "ref": "dhp62",
+              "label": "62",
+              "text": "“Sons are mine, wealth is mine”—\nthus the fool frets.\nFor even your self is not your own,\nlet alone your sons or wealth."
+            },
+            {
+              "ref": "dhp63",
+              "label": "63",
+              "text": "The fool who thinks they’re a fool\nis wise at least to that extent.\nBut the true fool is said to be one\nwho imagines that they are wise."
+            },
+            {
+              "ref": "dhp64",
+              "label": "64",
+              "text": "Though a fool attends to the wise\neven for the rest of their life,\nthey still don’t understand the teaching,\nlike a spoon the taste of the soup."
+            },
+            {
+              "ref": "dhp65",
+              "label": "65",
+              "text": "If a clever person attends to the wise\neven just for an hour or so,\nthey swiftly understand the teaching,\nlike a tongue the taste of the soup."
+            },
+            {
+              "ref": "dhp66",
+              "label": "66",
+              "text": "Fools and simpletons behave\nlike their own worst enemies,\ndoing wicked deeds\nthat ripen as bitter fruit."
+            },
+            {
+              "ref": "dhp67",
+              "label": "67",
+              "text": "It’s not good to do a deed\nthat plagues you later on,\nfor which you weep and wail,\nas its effect stays with you."
+            },
+            {
+              "ref": "dhp68",
+              "label": "68",
+              "text": "It is good to do a deed\nthat doesn’t plague you later on,\nthat gladdens and cheers,\nas its effect stays with you."
+            },
+            {
+              "ref": "dhp69",
+              "label": "69",
+              "text": "The fool imagines that evil is sweet,\nso long as it has not yet ripened.\nBut as soon as that evil ripens,\nthey fall into suffering."
+            },
+            {
+              "ref": "dhp70",
+              "label": "70",
+              "text": "Month after month a fool may eat\nfood from a grass-blade’s tip;\nbut they’ll never be worth a sixteenth part\nof one who has appraised the teaching."
+            },
+            {
+              "ref": "dhp71",
+              "label": "71",
+              "text": "For a wicked deed that has been done\ndoes not curdle quickly like milk.\nSmoldering, it follows the fool,\nlike a fire smothered over with ash."
+            },
+            {
+              "ref": "dhp72",
+              "label": "72",
+              "text": "Whatever fame a fool may get,\nit only gives rise to harm.\nWhatever good features they have it ruins,\nand blows their head into bits."
+            },
+            {
+              "ref": "dhp73",
+              "label": "73",
+              "text": "They’d seek the esteem that they lack,\nand status among the mendicants;\nauthority over monasteries,\nand honor among other families."
+            },
+            {
+              "ref": "dhp74",
+              "label": "74",
+              "text": "“Let both layfolk and renunciants think\nthe work was done by me alone.\nIn anything at all that’s to be done,\nlet them fall under my sway alone.”\nSo thinks the fool,\ntheir greed and pride only growing."
+            },
+            {
+              "ref": "dhp75",
+              "label": "75",
+              "text": "For the means to profit and the path to quenching\nare two quite different things.\nA mendicant disciple of the Buddha,\nunderstanding what this really means,\nwould never delight in honors,\nbut rather would foster seclusion."
+            }
+          ]
+        },
+        {
+          "title": "6. The Astute",
+          "reference": "Verses 76–89",
+          "sourceUrl": "https://suttacentral.net/dhp76-89/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp76",
+              "label": "76",
+              "text": "Regard one who sees your faults\nas a guide to a hidden treasure.\nStay close to one so intelligent and astute\nwho curbs you when you need it.\nSticking close to such an impartial person,\nthings get better, not worse."
+            },
+            {
+              "ref": "dhp77",
+              "label": "77",
+              "text": "Advise and instruct;\ncurb wickedness:\nfor you shall be loved by the good,\nand disliked by the bad."
+            },
+            {
+              "ref": "dhp78",
+              "label": "78",
+              "text": "Don’t mix with bad friends,\nnor with the worst of men.\nMix with spiritual friends,\nand with the best of men."
+            },
+            {
+              "ref": "dhp79",
+              "label": "79",
+              "text": "Through joy in the teaching you sleep at ease,\nwith clear and confident heart.\nAn astute person always delights in the teaching\nproclaimed by the Noble One."
+            },
+            {
+              "ref": "dhp80",
+              "label": "80",
+              "text": "While irrigators guide water,\nfletchers bend arrows straight,\nand carpenters bend timber straight,\nthe astute tame themselves."
+            },
+            {
+              "ref": "dhp81",
+              "label": "81",
+              "text": "As the wind cannot stir\na solid mass of rock,\nso too blame and praise\ndo not affect the wise."
+            },
+            {
+              "ref": "dhp82",
+              "label": "82",
+              "text": "Like a deep lake,\nclear and unclouded,\nso clear are the astute\nwhen they hear the teachings."
+            },
+            {
+              "ref": "dhp83",
+              "label": "83",
+              "text": "True persons give up everything,\nthey don’t cajole for the things they desire.\nThough touched by sadness or happiness,\nthe astute appear neither depressed nor elated."
+            },
+            {
+              "ref": "dhp84",
+              "label": "84",
+              "text": "Never wish for success by unjust means,\nfor your own sake or that of another,\ndesiring children, wealth, or nation;\nrather, be virtuous, wise, and just."
+            },
+            {
+              "ref": "dhp85",
+              "label": "85",
+              "text": "Few are those among humans\nwho cross to the far shore.\nThe rest just run around\non the near shore."
+            },
+            {
+              "ref": "dhp86",
+              "label": "86",
+              "text": "When the teaching is well explained,\nthe people who practice accordingly\nwill cross over\nDeath’s dominion so hard to pass."
+            },
+            {
+              "ref": "dhp87",
+              "label": "87",
+              "text": "Rid of dark qualities,\nan astute person would develop the bright.\nHaving left home for homelessness\nin seclusion, where joy is hard,"
+            },
+            {
+              "ref": "dhp88",
+              "label": "88",
+              "text": "they’d long for satisfaction there.\nForsaking sensual pleasures, owning nothing,\nan astute person would cleanse themselves\nof mental corruptions."
+            },
+            {
+              "ref": "dhp89",
+              "label": "89",
+              "text": "And those whose minds are rightly developed\nin the awakening factors;\nwho, letting go of attachments,\ndelight in not grasping:\nwith defilements ended, brilliant,\nthey are quenched in this world."
+            }
+          ]
+        },
+        {
+          "title": "7. The Perfected Ones",
+          "reference": "Verses 90–99",
+          "sourceUrl": "https://suttacentral.net/dhp90-99/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp90",
+              "label": "90",
+              "text": "At journey’s end, rid of sorrow;\neverywhere free,\nall ties given up,\nno fever is found in them."
+            },
+            {
+              "ref": "dhp91",
+              "label": "91",
+              "text": "The mindful apply themselves;\nthey delight in no abode.\nLike a swan gone from the marsh,\nthey leave home after home behind."
+            },
+            {
+              "ref": "dhp92",
+              "label": "92",
+              "text": "Those with nothing stored up,\nwho have understood their food,\nwhose domain is the liberation\nof the signless and the empty:\ntheir path is hard to trace,\nlike birds in the sky."
+            },
+            {
+              "ref": "dhp93",
+              "label": "93",
+              "text": "One whose defilements have ended;\nwho’s not attached to food;\nwhose domain is the liberation\nof the signless and the empty:\ntheir track is hard to trace,\nlike birds in the sky."
+            },
+            {
+              "ref": "dhp94",
+              "label": "94",
+              "text": "Whose faculties have become serene,\nlike horses tamed by a charioteer,\nwho has abandoned conceit and defilements;\nthe unaffected one is envied by even the gods."
+            },
+            {
+              "ref": "dhp95",
+              "label": "95",
+              "text": "Undisturbed like the earth,\ntrue to their vows, steady as Indra’s pillar,\nlike a lake clear of mud;\nsuch a one does not transmigrate."
+            },
+            {
+              "ref": "dhp96",
+              "label": "96",
+              "text": "Their mind is peaceful,\npeaceful are their speech and deeds.\nSuch a one is at peace,\nrightly freed through enlightenment."
+            },
+            {
+              "ref": "dhp97",
+              "label": "97",
+              "text": "Lacking faith, a house-breaker,\none who acknowledges nothing,\npurged of hope, they’ve wasted their chance:\nthat is indeed the supreme person!"
+            },
+            {
+              "ref": "dhp98",
+              "label": "98",
+              "text": "Whether in village or wilderness,\nin a valley or the uplands,\nwherever the perfected ones live\nis a delightful place."
+            },
+            {
+              "ref": "dhp99",
+              "label": "99",
+              "text": "Delightful are the wildernesses\nwhere no people delight.\nThose free of greed will delight there,\nnot those who seek sensual pleasures."
+            }
+          ]
+        },
+        {
+          "title": "8. The Thousands",
+          "reference": "Verses 100–115",
+          "sourceUrl": "https://suttacentral.net/dhp100-115/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp100",
+              "label": "100",
+              "text": "Better than a thousand\nmeaningless sayings\nis a single meaningful saying,\nhearing which brings you peace."
+            },
+            {
+              "ref": "dhp101",
+              "label": "101",
+              "text": "Better than a thousand\nmeaningless verses\nis a single meaningful verse,\nhearing which brings you peace."
+            },
+            {
+              "ref": "dhp102",
+              "label": "102",
+              "text": "Better than reciting\na hundred meaningless verses\nis a single saying of Dhamma,\nhearing which brings you peace."
+            },
+            {
+              "ref": "dhp103",
+              "label": "103",
+              "text": "The supreme conqueror is\nnot he who conquers a million men in battle,\nbut he who conquers a single man:\nhimself."
+            },
+            {
+              "ref": "dhp104",
+              "label": "104",
+              "text": "It is surely better to conquer oneself\nthan all those other folk.\nWhen a person has tamed themselves,\nalways living restrained,"
+            },
+            {
+              "ref": "dhp105",
+              "label": "105",
+              "text": "no god nor centaur,\nnor Māra nor divinity,\ncan undo the victory\nof such a personage."
+            },
+            {
+              "ref": "dhp106",
+              "label": "106",
+              "text": "Rather than a thousandfold sacrifice,\nevery month for a full century,\nit’s better to honor for a single hour\none who has developed themselves.\nThat offering is better\nthan the hundred year sacrifice."
+            },
+            {
+              "ref": "dhp107",
+              "label": "107",
+              "text": "Rather than serve the sacred flame\nin the forest for a hundred years,\nit’s better to honor for a single hour\na personage who has developed themselves.\nThat offering is better\nthan the hundred year sacrifice."
+            },
+            {
+              "ref": "dhp108",
+              "label": "108",
+              "text": "Whatever sacrifice or offering in the world\na seeker of merit may make for a year,\nnone of it is worth a quarter\nof bowing to the sincere."
+            },
+            {
+              "ref": "dhp109",
+              "label": "109",
+              "text": "For one in the habit of bowing,\nalways honoring the elders,\nfour blessings grow:\nlifespan, beauty, happiness, and strength."
+            },
+            {
+              "ref": "dhp110",
+              "label": "110",
+              "text": "Better to live a single day\nethical and absorbed in meditation\nthan to live a hundred years\nunethical and lacking immersion."
+            },
+            {
+              "ref": "dhp111",
+              "label": "111",
+              "text": "Better to live a single day\nwise and absorbed in meditation\nthan to live a hundred years\nwitless and lacking immersion."
+            },
+            {
+              "ref": "dhp112",
+              "label": "112",
+              "text": "Better to live a single day\nenergetic and strong,\nthan to live a hundred years\nlazy and lacking energy."
+            },
+            {
+              "ref": "dhp113",
+              "label": "113",
+              "text": "Better to live a single day\nseeing rise and fall\nthan to live a hundred years\nblind to rise and fall."
+            },
+            {
+              "ref": "dhp114",
+              "label": "114",
+              "text": "Better to live a single day\nseeing the state free of death\nthan to live a hundred years\nblind to the state free of death."
+            },
+            {
+              "ref": "dhp115",
+              "label": "115",
+              "text": "Better to live a single day\nseeing the supreme teaching\nthan to live a hundred years\nblind to the supreme teaching."
+            }
+          ]
+        },
+        {
+          "title": "9. Wickedness",
+          "reference": "Verses 116–128",
+          "sourceUrl": "https://suttacentral.net/dhp116-128/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp116",
+              "label": "116",
+              "text": "Rush to do good,\nshield your mind from evil;\nfor when you’re slow to do good,\nyour thoughts delight in wickedness."
+            },
+            {
+              "ref": "dhp117",
+              "label": "117",
+              "text": "If you do something bad,\ndon’t do it again and again,\ndon’t set your heart on it,\nfor piling up evil is suffering."
+            },
+            {
+              "ref": "dhp118",
+              "label": "118",
+              "text": "If you do something good,\ndo it again and again,\nset your heart on it,\nfor piling up goodness is joyful."
+            },
+            {
+              "ref": "dhp119",
+              "label": "119",
+              "text": "Even the wicked see good things,\nso long as their wickedness has not ripened.\nBut as soon as that wickedness ripens,\nthen the wicked see wicked things."
+            },
+            {
+              "ref": "dhp120",
+              "label": "120",
+              "text": "Even the good see wicked things,\nso long as their goodness has not ripened.\nBut as soon as that goodness ripens,\nthen the good see good things."
+            },
+            {
+              "ref": "dhp121",
+              "label": "121",
+              "text": "Think not lightly of evil,\nthat it won’t come back to you.\nThe pot is filled with water\nfalling drop by drop;\nthe fool is filled with wickedness\npiled up bit by bit."
+            },
+            {
+              "ref": "dhp122",
+              "label": "122",
+              "text": "Think not lightly of goodness,\nthat it won’t come back to you.\nThe pot is filled with water\nfalling drop by drop;\nthe attentive one is filled with goodness\npiled up bit by bit."
+            },
+            {
+              "ref": "dhp123",
+              "label": "123",
+              "text": "Avoid wickedness,\nas a merchant with rich cargo and small escort\nwould avoid a dangerous road,\nor one who loves life would avoid drinking poison."
+            },
+            {
+              "ref": "dhp124",
+              "label": "124",
+              "text": "You can carry poison in your hand\nif it has no wound,\nfor poison does not infect without a wound;\nnothing bad happens unless you do bad."
+            },
+            {
+              "ref": "dhp125",
+              "label": "125",
+              "text": "Whoever wrongs a man who has done no wrong,\na pure man who has not a blemish,\nthe evil backfires on the fool,\nlike fine dust thrown upwind."
+            },
+            {
+              "ref": "dhp126",
+              "label": "126",
+              "text": "Some are born in a womb;\nevildoers go to hell;\nthe virtuous go to heaven;\nthe undefiled are fully extinguished."
+            },
+            {
+              "ref": "dhp127",
+              "label": "127",
+              "text": "Not in midair, nor mid-ocean,\nnor hiding in a mountain cleft;\nyou’ll find no place on the planet\nto escape your wicked deeds."
+            },
+            {
+              "ref": "dhp128",
+              "label": "128",
+              "text": "Not in midair, nor mid-ocean,\nnor hiding in a mountain cleft;\nyou’ll find no place on the planet\nwhere you won’t be vanquished by death."
+            }
+          ]
+        },
+        {
+          "title": "10. The Rod",
+          "reference": "Verses 129–145",
+          "sourceUrl": "https://suttacentral.net/dhp129-145/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp129",
+              "label": "129",
+              "text": "All tremble at the rod,\nall fear death.\nTreating others like oneself,\nneither kill nor incite to kill."
+            },
+            {
+              "ref": "dhp130",
+              "label": "130",
+              "text": "All tremble at the rod,\nall love life.\nTreating others like oneself,\nneither kill nor incite to kill."
+            },
+            {
+              "ref": "dhp131",
+              "label": "131",
+              "text": "Creatures love happiness,\nso if you harm them with a stick\nin search of your own happiness,\nafter death you won’t find happiness."
+            },
+            {
+              "ref": "dhp132",
+              "label": "132",
+              "text": "Creatures love happiness,\nso if you don’t harm them with a stick\nin search of your own happiness,\nafter death you will find happiness."
+            },
+            {
+              "ref": "dhp133",
+              "label": "133",
+              "text": "Don’t speak harshly,\nthey may speak harshly back.\nFor aggressive speech is painful,\nand the rod may spring back on you."
+            },
+            {
+              "ref": "dhp134",
+              "label": "134",
+              "text": "If you still yourself\nlike a broken gong,\nyou reach extinguishment\nand know no conflict."
+            },
+            {
+              "ref": "dhp135",
+              "label": "135",
+              "text": "As a cowherd drives the cows\nto pasture with the rod,\nso too old age and death\ndrive life from living beings."
+            },
+            {
+              "ref": "dhp136",
+              "label": "136",
+              "text": "The fool does not understand\nthe evil that they do.\nBut because of those deeds, that simpleton\nis tormented as if burnt by fire."
+            },
+            {
+              "ref": "dhp137",
+              "label": "137",
+              "text": "One who violently attacks\nthe peaceful and the innocent\nswiftly falls\nto one of ten bad states:"
+            },
+            {
+              "ref": "dhp138",
+              "label": "138",
+              "text": "harsh pain; loss;\nthe breakup of the body;\nserious illness;\nmental distress;"
+            },
+            {
+              "ref": "dhp139",
+              "label": "139",
+              "text": "hazards from rulers;\nvicious slander;\nloss of kin;\ndestruction of wealth;"
+            },
+            {
+              "ref": "dhp140",
+              "label": "140",
+              "text": "or else their home\nis consumed by fire.\nWhen their body breaks up, that witless person\nis reborn in hell."
+            },
+            {
+              "ref": "dhp141",
+              "label": "141",
+              "text": "Not nudity, nor matted hair, nor mud,\nnor fasting, nor lying on bare ground,\nnor wearing dust and dirt, or squatting on the heels,\nwill cleanse a mortal not free of doubt."
+            },
+            {
+              "ref": "dhp142",
+              "label": "142",
+              "text": "Dressed up they may be, but if they live well—\npeaceful, tamed, committed to the spiritual path,\nhaving laid aside violence toward all creatures—\nthey are a brahmin, an ascetic, a mendicant."
+            },
+            {
+              "ref": "dhp143",
+              "label": "143",
+              "text": "Can a person constrained by conscience\nbe found in the world?\nWho shies away from blame,\nlike a fine horse from the whip?"
+            },
+            {
+              "ref": "dhp144",
+              "label": "144",
+              "text": "Like a fine horse under the whip,\nbe keen and full of urgency.\nWith faith, ethics, and energy,\nimmersion, and investigation of principles,\naccomplished in knowledge and conduct, mindful,\ngive up this vast suffering."
+            },
+            {
+              "ref": "dhp145",
+              "label": "145",
+              "text": "While irrigators guide water,\nfletchers bend arrows straight,\nand carpenters bend timber straight,\nthose true to their vows tame themselves."
+            }
+          ]
+        },
+        {
+          "title": "11. Old Age",
+          "reference": "Verses 146–156",
+          "sourceUrl": "https://suttacentral.net/dhp146-156/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp146",
+              "label": "146",
+              "text": "What is joy, what is laughter,\nwhen the flames are ever burning?\nSwathed in darkness,\nwould you not seek a light?"
+            },
+            {
+              "ref": "dhp147",
+              "label": "147",
+              "text": "See this fancy puppet,\na body built of sores,\ndiseased, obsessed over,\nin which nothing lasts at all."
+            },
+            {
+              "ref": "dhp148",
+              "label": "148",
+              "text": "This body is decrepit and frail,\na nest of disease.\nThis foul carcass falls apart,\nfor life ends in death."
+            },
+            {
+              "ref": "dhp149",
+              "label": "149",
+              "text": "These dove-grey bones\nare tossed away like\ndried gourds in the autumn—\nwhat joy is there in such a sight?"
+            },
+            {
+              "ref": "dhp150",
+              "label": "150",
+              "text": "In this city built of bones,\nplastered with flesh and blood,\nold age and death are stashed away,\nalong with conceit and contempt."
+            },
+            {
+              "ref": "dhp151",
+              "label": "151",
+              "text": "Fancy chariots of kings wear out,\nand even this body gets old.\nBut the truth of the good never gets old—\nso the good proclaim to the good."
+            },
+            {
+              "ref": "dhp152",
+              "label": "152",
+              "text": "A person of little learning\nages like an ox—\ntheir flesh grows,\nbut not their wisdom."
+            },
+            {
+              "ref": "dhp153",
+              "label": "153",
+              "text": "Transmigrating through countless rebirths,\nI’ve journeyed without reward,\nsearching for the house-builder;\npainful is birth again and again."
+            },
+            {
+              "ref": "dhp154",
+              "label": "154",
+              "text": "I’ve seen you, house-builder!\nYou won’t build a house again!\nYour rafters are all broken,\nyour roof-peak demolished.\nThe mind, set on demolition,\nhas reached the end of cravings."
+            },
+            {
+              "ref": "dhp155",
+              "label": "155",
+              "text": "When young they spurned the spiritual path\nand failed to earn any wealth.\nNow they brood like old cranes\nin a pond bereft of fish."
+            },
+            {
+              "ref": "dhp156",
+              "label": "156",
+              "text": "When young they spurned the spiritual path\nand failed to earn any wealth.\nNow they lie like spent arrows,\nbemoaning over things past."
+            }
+          ]
+        },
+        {
+          "title": "12. The Self",
+          "reference": "Verses 157–166",
+          "sourceUrl": "https://suttacentral.net/dhp157-166/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp157",
+              "label": "157",
+              "text": "If you knew your self as beloved,\nyou’d look after it so well.\nIn one of the night’s three watches,\nan astute person would remain alert."
+            },
+            {
+              "ref": "dhp158",
+              "label": "158",
+              "text": "The astute would avoid being corrupted\nby first grounding themselves\nin what is suitable,\nand then instructing others."
+            },
+            {
+              "ref": "dhp159",
+              "label": "159",
+              "text": "If one were to treat oneself\nas one instructs another,\nthe well-tamed indeed would tame:\nfor the self, it seems, is hard to tame."
+            },
+            {
+              "ref": "dhp160",
+              "label": "160",
+              "text": "One is indeed the lord of oneself,\nfor who else would be one’s lord?\nBy means of a well-tamed self,\none gains a lord that’s rare indeed."
+            },
+            {
+              "ref": "dhp161",
+              "label": "161",
+              "text": "For the evil that is done by oneself,\nborn and produced in oneself,\ngrinds down a simpleton,\nas diamond grinds a lesser gem."
+            },
+            {
+              "ref": "dhp162",
+              "label": "162",
+              "text": "One choked by immorality,\nas a sal tree by a creeper,\ndoes to themselves\nwhat a foe only wishes."
+            },
+            {
+              "ref": "dhp163",
+              "label": "163",
+              "text": "It’s easy to do bad things\nharmful to oneself,\nbut good things that are helpful\nare the hardest things to do."
+            },
+            {
+              "ref": "dhp164",
+              "label": "164",
+              "text": "On account of wicked views—\nscorning the guidance\nof the perfected ones,\nthe noble ones living righteously—\nthe idiot begets their own self’s demise,\nlike the bamboo bearing fruit."
+            },
+            {
+              "ref": "dhp165",
+              "label": "165",
+              "text": "For it is by oneself that evil’s done,\none is corrupted by oneself.\nIt’s by oneself that evil’s not done,\none is purified by oneself.\nPurity and impurity are personal matters,\nno one can purify another."
+            },
+            {
+              "ref": "dhp166",
+              "label": "166",
+              "text": "Never neglect what is good for yourself\nfor the sake of another, however great.\nKnowing well what is good for yourself,\nbe intent upon your heart’s goal."
+            }
+          ]
+        },
+        {
+          "title": "13. The World",
+          "reference": "Verses 167–178",
+          "sourceUrl": "https://suttacentral.net/dhp167-178/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp167",
+              "label": "167",
+              "text": "Don’t resort to lowly things,\ndon’t abide in negligence,\ndon’t resort to wrong views,\ndon’t perpetuate the world."
+            },
+            {
+              "ref": "dhp168",
+              "label": "168",
+              "text": "Get up, don’t be heedless,\nlive by principle, with good conduct.\nFor one of good conduct sleeps at ease,\nin this world and the next."
+            },
+            {
+              "ref": "dhp169",
+              "label": "169",
+              "text": "Live by principle, with good conduct,\ndon’t conduct yourself badly.\nFor one of good conduct sleeps at ease,\nin this world and the next."
+            },
+            {
+              "ref": "dhp170",
+              "label": "170",
+              "text": "Look upon the world\nas a bubble\nor a mirage,\nthen the King of Death won’t see you."
+            },
+            {
+              "ref": "dhp171",
+              "label": "171",
+              "text": "Come, see this world decked out\nlike a fancy royal chariot.\nHere fools founder,\nbut the discerning are not chained."
+            },
+            {
+              "ref": "dhp172",
+              "label": "172",
+              "text": "He who once was heedless,\nbut turned to heedfulness,\nshines upon this world\nlike the moon freed from clouds."
+            },
+            {
+              "ref": "dhp173",
+              "label": "173",
+              "text": "Someone whose bad deed\nis supplanted by the good,\nshines upon this world,\nlike the moon freed from clouds."
+            },
+            {
+              "ref": "dhp174",
+              "label": "174",
+              "text": "Blind is the world,\nfew are those who clearly see.\nOnly a handful go to heaven,\nlike a bird freed from a net."
+            },
+            {
+              "ref": "dhp175",
+              "label": "175",
+              "text": "Swans fly by the sun’s path,\npsychic sages fly through space.\nThe attentive leave the world,\nhaving vanquished Māra with his legions."
+            },
+            {
+              "ref": "dhp176",
+              "label": "176",
+              "text": "When a personage, spurning the hereafter,\ntransgresses in just one thing—\nlying—\nthere is no evil they would not do."
+            },
+            {
+              "ref": "dhp177",
+              "label": "177",
+              "text": "The miserly don’t ascend to heaven,\nit takes a fool to not praise giving.\nThe attentive celebrate giving,\nand so find happiness in the hereafter."
+            },
+            {
+              "ref": "dhp178",
+              "label": "178",
+              "text": "The fruit of stream-entry is better\nthan being the one king of the earth,\nthan going to heaven,\nthan lordship over all the world."
+            }
+          ]
+        },
+        {
+          "title": "14. The Buddhas",
+          "reference": "Verses 179–196",
+          "sourceUrl": "https://suttacentral.net/dhp179-196/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp179",
+              "label": "179",
+              "text": "He whose victory may not be undone,\na victory unrivaled in all the world;\nby what track would you trace that Buddha,\nwho leaves no track in his infinite range?"
+            },
+            {
+              "ref": "dhp180",
+              "label": "180",
+              "text": "Of craving, the weaver, the clinger, he has none:\nso where can he be traced?\nBy what track would you trace that Buddha,\nwho leaves no track in his infinite range?"
+            },
+            {
+              "ref": "dhp181",
+              "label": "181",
+              "text": "The attentive intent on absorption,\nwho love the peace of renunciation,\nthe Buddhas, ever mindful,\nare envied by even the gods."
+            },
+            {
+              "ref": "dhp182",
+              "label": "182",
+              "text": "It’s hard to gain a human birth;\nthe life of mortals is hard;\nit’s hard to hear the true teaching;\nthe arising of Buddhas is hard."
+            },
+            {
+              "ref": "dhp183",
+              "label": "183",
+              "text": "Not to do any evil;\nto embrace the good;\nto purify one’s mind:\nthis is the instruction of the Buddhas."
+            },
+            {
+              "ref": "dhp184",
+              "label": "184",
+              "text": "Patient acceptance is the ultimate fervor.\nExtinguishment is the ultimate, say the Buddhas.\nNo true renunciate injures another,\nnor does an ascetic hurt another."
+            },
+            {
+              "ref": "dhp185",
+              "label": "185",
+              "text": "Not speaking ill nor doing harm;\nrestraint in the monastic code;\nmoderation in eating;\nstaying in remote lodgings;\ncommitment to the higher mind—\nthis is the instruction of the Buddhas."
+            },
+            {
+              "ref": "dhp186",
+              "label": "186",
+              "text": "Even if it were raining money,\nyou’d not be sated in sensual pleasures.\nAn astute person understands that sensual pleasures\noffer little gratification and much suffering."
+            },
+            {
+              "ref": "dhp187",
+              "label": "187",
+              "text": "Thus they find no delight\neven in celestial pleasures.\nA disciple of the fully awakened Buddha\ndelights in the ending of craving."
+            },
+            {
+              "ref": "dhp188",
+              "label": "188",
+              "text": "So many go for refuge\nto mountains and forest groves,\nto shrines in tended parks;\nthose people are driven by fear."
+            },
+            {
+              "ref": "dhp189",
+              "label": "189",
+              "text": "But such refuge is no sanctuary,\nit is no supreme refuge.\nBy going to that refuge,\nyou’re not released from all suffering."
+            },
+            {
+              "ref": "dhp190",
+              "label": "190",
+              "text": "One gone for refuge to the Buddha,\nto his teaching and to the Saṅgha,\nsees the four noble truths\nwith right understanding:"
+            },
+            {
+              "ref": "dhp191",
+              "label": "191",
+              "text": "suffering, suffering’s origin,\nsuffering’s transcendence,\nand the noble eightfold path\nthat leads to the stilling of suffering."
+            },
+            {
+              "ref": "dhp192",
+              "label": "192",
+              "text": "Such refuge is a sanctuary,\nit is the supreme refuge.\nBy going to that refuge,\nyou’re released from all suffering."
+            },
+            {
+              "ref": "dhp193",
+              "label": "193",
+              "text": "It’s hard to find a thoroughbred man:\nthey’re not born just anywhere.\nA family where that attentive one is born\nprospers in happiness."
+            },
+            {
+              "ref": "dhp194",
+              "label": "194",
+              "text": "Happy, the arising of Buddhas!\nHappy, the teaching of Dhamma!\nHappy is the harmony of the Saṅgha,\nand the striving of the harmonious is happy."
+            },
+            {
+              "ref": "dhp195",
+              "label": "195",
+              "text": "When a person venerates the worthy—\nthe Buddha or his disciple,\nwho have transcended proliferation,\nand have left behind grief and lamentation,"
+            },
+            {
+              "ref": "dhp196",
+              "label": "196",
+              "text": "quenched, fearing nothing from any quarter—\nthe merit of one venerating such as these,\ncannot be calculated by anyone,\nsaying it is just this much."
+            }
+          ]
+        },
+        {
+          "title": "15. Happiness",
+          "reference": "Verses 197–208",
+          "sourceUrl": "https://suttacentral.net/dhp197-208/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp197",
+              "label": "197",
+              "text": "Let us live so very happily,\nloving among the hostile.\nAmong hostile humans,\nlet us live with love."
+            },
+            {
+              "ref": "dhp198",
+              "label": "198",
+              "text": "Let us live so very happily,\nhealthy among the ailing.\nAmong ailing humans\nlet us live healthily."
+            },
+            {
+              "ref": "dhp199",
+              "label": "199",
+              "text": "Let us live so very happily,\ncontent among the greedy.\nAmong greedy humans,\nlet us live content."
+            },
+            {
+              "ref": "dhp200",
+              "label": "200",
+              "text": "Let us live so very happily,\nwe who have nothing.\nWe shall feed on rapture,\nlike the gods of sublime luminosity."
+            },
+            {
+              "ref": "dhp201",
+              "label": "201",
+              "text": "Victory breeds enmity;\nthe defeated sleep badly.\nThe peaceful sleep at ease,\nhaving left victory and defeat behind."
+            },
+            {
+              "ref": "dhp202",
+              "label": "202",
+              "text": "There is no fire like greed,\nno crime like hate,\nno suffering like the aggregates,\nno bliss beyond peace."
+            },
+            {
+              "ref": "dhp203",
+              "label": "203",
+              "text": "Hunger is the worst illness,\nconditions are the worst suffering.\nWhen one has known this as it is,\nextinguishment is the ultimate happiness."
+            },
+            {
+              "ref": "dhp204",
+              "label": "204",
+              "text": "Health is the ultimate blessing;\ncontentment, the ultimate wealth;\ntrust is the ultimate family;\nextinguishment, the ultimate happiness."
+            },
+            {
+              "ref": "dhp205",
+              "label": "205",
+              "text": "Having drunk the nectar of seclusion\nand the nectar of peace—\nfree of stress, free of evil,\ndrink the joyous nectar of truth."
+            },
+            {
+              "ref": "dhp206",
+              "label": "206",
+              "text": "It’s good to see the noble ones,\nstaying with them is always good.\nWere you not to see fools,\nyou’d always be happy."
+            },
+            {
+              "ref": "dhp207",
+              "label": "207",
+              "text": "For one who consorts with fools\ngrieves long.\nPainful is living with fools,\nlike being stuck with your enemy.\nHappy is living with an attentive one,\nlike meeting with your kin."
+            },
+            {
+              "ref": "dhp208",
+              "label": "208",
+              "text": "Therefore:\nAn attentive one, wise and learned,\na behemoth of virtue, true to their vows, noble:\nfollow a true and intelligent person such as this,\nas the moon tracks the path of the stars."
+            }
+          ]
+        },
+        {
+          "title": "16. The Beloved",
+          "reference": "Verses 209–220",
+          "sourceUrl": "https://suttacentral.net/dhp209-220/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp209",
+              "label": "209",
+              "text": "Applying yourself where you ought not,\nneglecting what you should be doing,\nforgetting your goal, you cling to what you hold dear,\njealous of those devoted to their heart’s goal."
+            },
+            {
+              "ref": "dhp210",
+              "label": "210",
+              "text": "Don’t ever get too close\nto those you like or dislike.\nFor not seeing the liked is suffering,\nand so is seeing the disliked."
+            },
+            {
+              "ref": "dhp211",
+              "label": "211",
+              "text": "Therefore don’t hold anything dear,\nfor it’s bad to lose those you love.\nNo ties are found in they who\nhold nothing loved or loathed."
+            },
+            {
+              "ref": "dhp212",
+              "label": "212",
+              "text": "Sorrow springs from what we hold dear,\nfear springs from what we hold dear;\none free from holding anything dear\nhas no sorrow, let alone fear."
+            },
+            {
+              "ref": "dhp213",
+              "label": "213",
+              "text": "Sorrow springs from attachment,\nfear springs from attachment;\none free from attachment\nhas no sorrow, let alone fear."
+            },
+            {
+              "ref": "dhp214",
+              "label": "214",
+              "text": "Sorrow springs from relishing,\nfear springs from relishing;\none free from relishing\nhas no sorrow, let alone fear."
+            },
+            {
+              "ref": "dhp215",
+              "label": "215",
+              "text": "Sorrow springs from desire,\nfear springs from desire;\none free from desire\nhas no sorrow, let alone fear."
+            },
+            {
+              "ref": "dhp216",
+              "label": "216",
+              "text": "Sorrow springs from craving,\nfear springs from craving;\none free from craving\nhas no sorrow, let alone fear."
+            },
+            {
+              "ref": "dhp217",
+              "label": "217",
+              "text": "One accomplished in virtue and vision,\nfirmly principled, and truthful,\ndoing oneself what ought be done:\nthat’s who the people love."
+            },
+            {
+              "ref": "dhp218",
+              "label": "218",
+              "text": "One eager to realize the ineffable\nwould be filled with awareness.\nTheir mind not bound to pleasures of sense,\nthey’re said to be heading upstream."
+            },
+            {
+              "ref": "dhp219",
+              "label": "219",
+              "text": "When a man returns safely\nafter a long time spent abroad,\nfamily, friends, and loved ones\ncelebrate his return."
+            },
+            {
+              "ref": "dhp220",
+              "label": "220",
+              "text": "Just so, when one who has done good\ngoes from this world to the next,\ntheir good deeds receive them there,\nas family welcomes home one they love."
+            }
+          ]
+        },
+        {
+          "title": "17. Anger",
+          "reference": "Verses 221–234",
+          "sourceUrl": "https://suttacentral.net/dhp221-234/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp221",
+              "label": "221",
+              "text": "Give up anger, get rid of conceit,\nand escape every fetter.\nSufferings don’t befall one who has nothing,\nnot clinging to name and form."
+            },
+            {
+              "ref": "dhp222",
+              "label": "222",
+              "text": "When anger surges like a lurching chariot,\nkeep it in check.\nThat’s what I call a charioteer;\nothers just hold the reins."
+            },
+            {
+              "ref": "dhp223",
+              "label": "223",
+              "text": "Defeat anger with kindness,\nvillainy with virtue,\nstinginess with giving,\nand lies with truth."
+            },
+            {
+              "ref": "dhp224",
+              "label": "224",
+              "text": "Speak the truth, do not be angry,\nand give when asked, if only a little.\nBy these three means,\nyou may enter the presence of the gods."
+            },
+            {
+              "ref": "dhp225",
+              "label": "225",
+              "text": "Those harmless sages,\nalways restrained in body,\ngo to the state that does not pass,\nwhere there is no sorrow."
+            },
+            {
+              "ref": "dhp226",
+              "label": "226",
+              "text": "Always wakeful,\npracticing night and day,\nfocused only on extinguishment,\ntheir defilements come to an end."
+            },
+            {
+              "ref": "dhp227",
+              "label": "227",
+              "text": "It’s always been this way, Atula,\nit’s not just today.\nThey blame you when you’re silent,\nthey blame you when you speak a lot,\nand even when you speak just right:\nno one in the world escapes blame."
+            },
+            {
+              "ref": "dhp228",
+              "label": "228",
+              "text": "There never was, nor will be,\nnor is there today,\nsomeone who is wholly praised\nor wholly blamed."
+            },
+            {
+              "ref": "dhp229",
+              "label": "229",
+              "text": "If, after watching them day in day out,\ndiscerning people praise\nthat sage of impeccable conduct,\nendowed with ethics and wisdom;"
+            },
+            {
+              "ref": "dhp230",
+              "label": "230",
+              "text": "like a pendant of Black Plum River gold,\nwho is worthy to criticize them?\nEven the gods praise them,\nand by the Divinity, too, they’re praised."
+            },
+            {
+              "ref": "dhp231",
+              "label": "231",
+              "text": "Guard against ill-tempered deeds,\nbe restrained in body.\nGiving up bad bodily conduct,\nconduct yourself well in body."
+            },
+            {
+              "ref": "dhp232",
+              "label": "232",
+              "text": "Guard against ill-tempered words,\nbe restrained in speech.\nGiving up bad verbal conduct,\nconduct yourself well in speech."
+            },
+            {
+              "ref": "dhp233",
+              "label": "233",
+              "text": "Guard against ill-tempered thoughts,\nbe restrained in mind.\nGiving up bad mental conduct,\nconduct yourself well in mind."
+            },
+            {
+              "ref": "dhp234",
+              "label": "234",
+              "text": "An attentive one is restrained in body\nrestrained also in speech,\nin thought, too, they are restrained:\nthey are restrained in every way."
+            }
+          ]
+        },
+        {
+          "title": "18. Stains",
+          "reference": "Verses 235–255",
+          "sourceUrl": "https://suttacentral.net/dhp235-255/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp235",
+              "label": "235",
+              "text": "Today you’re like a withered leaf,\nYama’s men await you.\nYou stand at the departure gates,\nyet you have no supplies for the road."
+            },
+            {
+              "ref": "dhp236",
+              "label": "236",
+              "text": "Make an island of yourself!\nSwiftly strive, learn to be wise!\nPurged of stains, flawless,\nyou’ll go to the heavenly realm of the noble ones."
+            },
+            {
+              "ref": "dhp237",
+              "label": "237",
+              "text": "You’ve journeyed the stages of life,\nand now you set out to meet Yama.\nAlong the way there’s nowhere to stay,\nyet you have no supplies for the road."
+            },
+            {
+              "ref": "dhp238",
+              "label": "238",
+              "text": "Make an island of yourself!\nSwiftly strive, learn to be wise!\nPurged of stains, flawless,\nyou’ll not come again to rebirth and old age."
+            },
+            {
+              "ref": "dhp239",
+              "label": "239",
+              "text": "A smart person would purge\ntheir own stains gradually,\nbit by bit, moment by moment,\nlike a smith smelting silver."
+            },
+            {
+              "ref": "dhp240",
+              "label": "240",
+              "text": "It is the rust born on the iron\nthat eats away the place it arose.\nAnd so it is their own deeds\nthat lead the overly-ascetic to a bad place."
+            },
+            {
+              "ref": "dhp241",
+              "label": "241",
+              "text": "Not rehearsing is the stain of hymns.\nThe stain of houses is neglect.\nLaziness is the stain of beauty.\nA guard’s stain is negligence."
+            },
+            {
+              "ref": "dhp242",
+              "label": "242",
+              "text": "Misconduct is a woman’s stain.\nA giver’s stain is stinginess.\nBad qualities are a stain\nin this world and the next."
+            },
+            {
+              "ref": "dhp243",
+              "label": "243",
+              "text": "But a worse stain than these\nis ignorance, the worst stain of all.\nHaving given up that stain,\nbe without stains, mendicants!"
+            },
+            {
+              "ref": "dhp244",
+              "label": "244",
+              "text": "Life is easy for the shameless.\nWith all the rude courage of a crow,\nthey live pushy,\nrude, and corrupt."
+            },
+            {
+              "ref": "dhp245",
+              "label": "245",
+              "text": "Life is hard for the conscientious,\nalways seeking purity,\nneither clinging nor rude,\npure of livelihood and discerning."
+            },
+            {
+              "ref": "dhp246",
+              "label": "246",
+              "text": "Take anyone in this world\nwho kills living creatures,\nspeaks falsely, steals,\ncommits adultery,"
+            },
+            {
+              "ref": "dhp247",
+              "label": "247",
+              "text": "and indulges in drinking\nbeer and wine.\nRight here they dig up\nthe root of their own self."
+            },
+            {
+              "ref": "dhp248",
+              "label": "248",
+              "text": "Know this, my man:\nthey are unrestrained and wicked.\nDon’t let that greed and unrighteousness\ninflict pain on you for long."
+            },
+            {
+              "ref": "dhp249",
+              "label": "249",
+              "text": "The people give according to their faith,\naccording to their confidence.\nIf you get upset over that,\nover others’ food and drink,\nyou’ll not, by day or by night,\nbecome immersed in samādhi."
+            },
+            {
+              "ref": "dhp250",
+              "label": "250",
+              "text": "Those who have cut that out,\ndug it up at the root, eradicated it,\nthey will, by day or by night,\nbecome immersed in samādhi."
+            },
+            {
+              "ref": "dhp251",
+              "label": "251",
+              "text": "There is no fire like greed,\nno crime like hate,\nno net like delusion,\nno river like craving."
+            },
+            {
+              "ref": "dhp252",
+              "label": "252",
+              "text": "It’s easy to see the faults of others,\nhard to see one’s own.\nFor the faults of others\nare tossed high like hay,\nwhile one’s own are hidden,\nas a cheat hides a bad hand."
+            },
+            {
+              "ref": "dhp253",
+              "label": "253",
+              "text": "When you look for the flaws of others,\nalways finding fault,\nyour defilements only grow,\nyou’re far from ending defilements."
+            },
+            {
+              "ref": "dhp254",
+              "label": "254",
+              "text": "In the atmosphere there is no track,\nthere’s no true ascetic outside here.\nPeople enjoy proliferation,\nthe Realized Ones are free of proliferation."
+            },
+            {
+              "ref": "dhp255",
+              "label": "255",
+              "text": "In the atmosphere there is no track,\nthere’s no true ascetic outside here.\nNo conditions last forever,\nthe Awakened Ones are not shaken."
+            }
+          ]
+        },
+        {
+          "title": "19. The Just",
+          "reference": "Verses 256–272",
+          "sourceUrl": "https://suttacentral.net/dhp256-272/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp256",
+              "label": "256",
+              "text": "You don’t become just\nby passing hasty judgment.\nAn astute person evaluates both\nwhat is pertinent and what is irrelevant."
+            },
+            {
+              "ref": "dhp257",
+              "label": "257",
+              "text": "A wise one judges others without haste,\njustly and impartially;\nthat guardian of the law\nis said to be just."
+            },
+            {
+              "ref": "dhp258",
+              "label": "258",
+              "text": "You’re not an astute scholar\njust because you speak a lot.\nOne who is secure, free of enmity and fear,\nis said to be astute."
+            },
+            {
+              "ref": "dhp259",
+              "label": "259",
+              "text": "You’re not one who has memorized the teaching\njust because you recite a lot.\nSomeone who directly sees the teaching\nafter hearing only a little\nis truly one who has memorized the teaching,\nfor they can never forget it."
+            },
+            {
+              "ref": "dhp260",
+              "label": "260",
+              "text": "You don’t become a senior\nby getting some grey hairs;\nfor one ripe only in age,\nis said to have aged in vain."
+            },
+            {
+              "ref": "dhp261",
+              "label": "261",
+              "text": "One who is truthful and principled,\nharmless, restrained, and self-controlled,\nattentive, purged of stains,\nis said to be a senior."
+            },
+            {
+              "ref": "dhp262",
+              "label": "262",
+              "text": "Not by mere enunciation,\nor a beautiful complexion\ndoes a person become holy,\nif they’re jealous, stingy, and devious."
+            },
+            {
+              "ref": "dhp263",
+              "label": "263",
+              "text": "But if they’ve cut that out,\ndug it up at the root, eradicated it,\nthat intelligent one, purged of vice,\nis said to be holy."
+            },
+            {
+              "ref": "dhp264",
+              "label": "264",
+              "text": "A liar and breaker of vows is no ascetic\njust because they shave their head.\nHow on earth can one be an ascetic\nwho’s full of desire and greed?"
+            },
+            {
+              "ref": "dhp265",
+              "label": "265",
+              "text": "One who stops all wicked deeds,\ngreat and small,\nbecause of stopping wicked deeds\nis said to be an ascetic."
+            },
+            {
+              "ref": "dhp266",
+              "label": "266",
+              "text": "You don’t become a mendicant\njust by begging from others.\nOne who has undertaken domestic duties\nhas not yet become a mendicant."
+            },
+            {
+              "ref": "dhp267",
+              "label": "267",
+              "text": "But one living a spiritual life,\nwho has banished both merit and evil,\nwho wanders having appraised the world,\nis said to be a mendicant."
+            },
+            {
+              "ref": "dhp268",
+              "label": "268",
+              "text": "You don’t become a sage by being sagelike,\nwhile still confused and ignorant.\nThe astute one who holds the scales,\ntaking only the best,"
+            },
+            {
+              "ref": "dhp269",
+              "label": "269",
+              "text": "and shunning the bad—\nthat is a sage, and that is how one becomes a sage.\nOne who sagely weighs both in the world,\nis thereby said to be a sage."
+            },
+            {
+              "ref": "dhp270",
+              "label": "270",
+              "text": "You don’t become a noble one\nby harming living beings.\nOne harmless toward all living beings\nis said to be a noble one."
+            },
+            {
+              "ref": "dhp271",
+              "label": "271",
+              "text": "Not by precepts and observances,\nnor by much learning,\nnor by meditative immersion,\nnor by living in seclusion,"
+            },
+            {
+              "ref": "dhp272",
+              "label": "272",
+              "text": "do I experience the bliss of renunciation\nnot frequented by ordinary people.\nA mendicant cannot rest confident\nwithout attaining the end of defilements."
+            }
+          ]
+        },
+        {
+          "title": "20. The Path",
+          "reference": "Verses 273–289",
+          "sourceUrl": "https://suttacentral.net/dhp273-289/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp273",
+              "label": "273",
+              "text": "Of paths, the eightfold is the best;\nof truths, the four statements;\ndispassion is the best of things,\nand the Clear-eyed One is the best of humans."
+            },
+            {
+              "ref": "dhp274",
+              "label": "274",
+              "text": "This is the path, there is no other\nfor the purification of vision.\nYou all must practice this,\nit is the way to baffle Māra."
+            },
+            {
+              "ref": "dhp275",
+              "label": "275",
+              "text": "When you all are practicing this,\nyou’ll make an end of suffering.\nI have explained the path to you\nfor extracting the thorn with wisdom."
+            },
+            {
+              "ref": "dhp276",
+              "label": "276",
+              "text": "You yourselves must do the work,\nthe Realized Ones just show the way.\nMeditators practicing absorption\nare released from Māra’s bonds."
+            },
+            {
+              "ref": "dhp277",
+              "label": "277",
+              "text": "All conditions are impermanent—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity."
+            },
+            {
+              "ref": "dhp278",
+              "label": "278",
+              "text": "All conditions are suffering—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity."
+            },
+            {
+              "ref": "dhp279",
+              "label": "279",
+              "text": "All things are not-self—\nwhen this is seen with wisdom,\none grows disillusioned with suffering:\nthis is the path to purity."
+            },
+            {
+              "ref": "dhp280",
+              "label": "280",
+              "text": "They don’t get going when it’s time to start;\nthey’re young and strong, but given to sloth.\nTheir mind depressed in sunken thought,\nlazy and slothful, they can’t discern the path."
+            },
+            {
+              "ref": "dhp281",
+              "label": "281",
+              "text": "Guarded in speech, restrained in mind,\ndoing no unskillful bodily deed.\nPurify these three ways of performing deeds,\nand win the path known to seers."
+            },
+            {
+              "ref": "dhp282",
+              "label": "282",
+              "text": "From meditation springs wisdom,\nwithout meditation, wisdom ends.\nKnowing these two paths—\nof progress and decline—\nyou should conduct yourself\nso that wisdom grows."
+            },
+            {
+              "ref": "dhp283",
+              "label": "283",
+              "text": "Cut down the jungle, not just a tree;\nfrom the jungle springs fear.\nHaving cut down jungle and snarl,\nbe free of jungles, mendicants!"
+            },
+            {
+              "ref": "dhp284",
+              "label": "284",
+              "text": "So long as the vine, no matter how small,\nthat ties a man to women is not cut,\nhis mind remains trapped,\nlike a calf suckling its mother."
+            },
+            {
+              "ref": "dhp285",
+              "label": "285",
+              "text": "Cut out affection for oneself,\nlike plucking an autumn lotus.\nFoster only the path to peace,\nthe extinguishment the Holy One taught."
+            },
+            {
+              "ref": "dhp286",
+              "label": "286",
+              "text": "“Here I will stay for the rains;\nhere for winter, here the summer”;\nthus the fool thinks,\nnot realizing the danger."
+            },
+            {
+              "ref": "dhp287",
+              "label": "287",
+              "text": "As a mighty flood sweeps away a sleeping village,\ndeath steals away a man\nwho dotes on children and cattle,\nhis mind caught up in them."
+            },
+            {
+              "ref": "dhp288",
+              "label": "288",
+              "text": "Children provide you no shelter,\nnor does father, nor relatives.\nWhen you’re seized by the terminator,\nthere’s no shelter in family."
+            },
+            {
+              "ref": "dhp289",
+              "label": "289",
+              "text": "Knowing the reason for this,\nastute, and ethically restrained,\none would quickly clear the path\nthat leads to extinguishment."
+            }
+          ]
+        },
+        {
+          "title": "21. Miscellaneous",
+          "reference": "Verses 290–305",
+          "sourceUrl": "https://suttacentral.net/dhp290-305/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp290",
+              "label": "290",
+              "text": "If by giving up material happiness\none sees abundant happiness,\nthe attentive would give up material happiness,\nseeing the abundant happiness."
+            },
+            {
+              "ref": "dhp291",
+              "label": "291",
+              "text": "Seeking their own happiness\nby imposing suffering on others,\nintimate with enmity,\nthey’re not freed from enmity."
+            },
+            {
+              "ref": "dhp292",
+              "label": "292",
+              "text": "They dump what should be done,\nand do what should not be done.\nFor the insolent and the negligent,\ntheir defilements only grow."
+            },
+            {
+              "ref": "dhp293",
+              "label": "293",
+              "text": "Those that have properly undertaken\nconstant mindfulness of the body,\ndon’t cultivate what should not be done,\nbut always do what should be done.\nMindful and aware,\ntheir defilements come to an end."
+            },
+            {
+              "ref": "dhp294",
+              "label": "294",
+              "text": "Having slain mother and father,\nand two aristocratic kings,\nand having wiped out the kingdom with its tax collector,\nthe brahmin walks on untroubled."
+            },
+            {
+              "ref": "dhp295",
+              "label": "295",
+              "text": "Having slain mother and father,\nand two prosperous kings,\nand a tiger as the fifth,\nthe brahmin walks on untroubled."
+            },
+            {
+              "ref": "dhp296",
+              "label": "296",
+              "text": "The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the Buddha."
+            },
+            {
+              "ref": "dhp297",
+              "label": "297",
+              "text": "The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the teaching."
+            },
+            {
+              "ref": "dhp298",
+              "label": "298",
+              "text": "The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nconstantly recollect the Saṅgha."
+            },
+            {
+              "ref": "dhp299",
+              "label": "299",
+              "text": "The disciples of Gotama\nalways wake up refreshed,\nwho day and night\nare constantly mindful of the body."
+            },
+            {
+              "ref": "dhp300",
+              "label": "300",
+              "text": "The disciples of Gotama\nalways wake up refreshed,\nwhose minds day and night\ndelight in harmlessness."
+            },
+            {
+              "ref": "dhp301",
+              "label": "301",
+              "text": "The disciples of Gotama\nalways wake up refreshed,\nwhose minds day and night\ndelight in meditation."
+            },
+            {
+              "ref": "dhp302",
+              "label": "302",
+              "text": "Going forth is hard, it’s hard to be happy;\nlife at home is hard too, and painful,\nit’s painful to stay when you’ve nothing in common.\nA traveler is a prey to pain,\nso don’t be a traveler,\ndon’t be prey to pain."
+            },
+            {
+              "ref": "dhp303",
+              "label": "303",
+              "text": "One who is faithful, accomplished in ethics,\nblessed with fame and wealth,\nis honored in whatever place\nthey frequent."
+            },
+            {
+              "ref": "dhp304",
+              "label": "304",
+              "text": "The good shine from afar,\nlike the Himalayan peaks,\nbut the wicked are not seen,\nlike arrows scattered in the night."
+            },
+            {
+              "ref": "dhp305",
+              "label": "305",
+              "text": "Sitting alone, sleeping alone,\ntirelessly wandering alone;\none who tames themselves alone\nwould delight within a forest."
+            }
+          ]
+        },
+        {
+          "title": "22. Hell",
+          "reference": "Verses 306–319",
+          "sourceUrl": "https://suttacentral.net/dhp306-319/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp306",
+              "label": "306",
+              "text": "A liar goes to hell,\nas does one who denies what they did.\nBoth are equal in the hereafter,\nthose men of base deeds."
+            },
+            {
+              "ref": "dhp307",
+              "label": "307",
+              "text": "Many who wear a scrap of ocher cloth\nare unrestrained and wicked.\nBeing wicked, they are reborn in hell\ndue to their bad deeds."
+            },
+            {
+              "ref": "dhp308",
+              "label": "308",
+              "text": "It’d be better for the immoral and unrestrained\nto eat an iron ball,\nscorching, like a burning flame,\nthan to eat the nation’s alms."
+            },
+            {
+              "ref": "dhp309",
+              "label": "309",
+              "text": "Four things befall a heedless man\nwho sleeps with another’s wife:\nwickedness, poor sleep,\nill-repute, and rebirth in hell."
+            },
+            {
+              "ref": "dhp310",
+              "label": "310",
+              "text": "He accrues wickedness and is reborn in a bad place,\nall so a frightened couple may snatch a moment’s pleasure,\nfor which rulers impose a heavy punishment.\nThat’s why a man should not sleep with another’s wife."
+            },
+            {
+              "ref": "dhp311",
+              "label": "311",
+              "text": "When kusa grass is wrongly grasped\nit only cuts the hand.\nSo too, the ascetic life, when wrongly taken,\ndrags you to hell."
+            },
+            {
+              "ref": "dhp312",
+              "label": "312",
+              "text": "Any lax act,\nany corrupt observance,\nor suspicious spiritual life,\nis not very fruitful."
+            },
+            {
+              "ref": "dhp313",
+              "label": "313",
+              "text": "If one is to do what should be done,\none should staunchly strive.\nFor the life gone forth when laxly led\njust stirs up dust all the more."
+            },
+            {
+              "ref": "dhp314",
+              "label": "314",
+              "text": "A bad deed is better left undone,\nfor it will plague you later on.\nA good deed is better done,\none that does not plague you."
+            },
+            {
+              "ref": "dhp315",
+              "label": "315",
+              "text": "As a frontier city\nis guarded inside and out,\nso you should ward yourselves—\ndon’t let the moment pass you by.\nFor if you miss your moment\nyou’ll grieve when sent to hell."
+            },
+            {
+              "ref": "dhp316",
+              "label": "316",
+              "text": "Unashamed of what is shameful,\nashamed of what is not shameful;\nbeings who uphold wrong view\ngo to a bad place."
+            },
+            {
+              "ref": "dhp317",
+              "label": "317",
+              "text": "Seeing danger where there is none,\nand blind to the actual danger,\nbeings who uphold wrong view\ngo to a bad place."
+            },
+            {
+              "ref": "dhp318",
+              "label": "318",
+              "text": "Seeing fault where there is none,\nand blind to the actual fault,\nbeings who uphold wrong view\ngo to a bad place."
+            },
+            {
+              "ref": "dhp319",
+              "label": "319",
+              "text": "Knowing a fault as a fault\nand the faultless as faultless,\nbeings who uphold right view\ngo to a good place."
+            }
+          ]
+        },
+        {
+          "title": "23. Elephants",
+          "reference": "Verses 320–333",
+          "sourceUrl": "https://suttacentral.net/dhp320-333/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp320",
+              "label": "320",
+              "text": "Like an elephant struck\nwith arrows in battle,\nI shall endure abuse,\nfor so many folk are badly behaved."
+            },
+            {
+              "ref": "dhp321",
+              "label": "321",
+              "text": "The well-tamed beast is the one led to the crowd;\nthe tamed elephant’s the one the king mounts;\nthe tamed person who endures abuse\nis the best of human beings."
+            },
+            {
+              "ref": "dhp322",
+              "label": "322",
+              "text": "Those who have tamed themselves are better\nthan fine tamed mules,\nthoroughbreds from Sindh,\nor giant tuskers."
+            },
+            {
+              "ref": "dhp323",
+              "label": "323",
+              "text": "For not on those mounts\nwould you go to the untrodden place,\nwhereas, with the help of one whose self is well tamed,\nyou go there, tamed by the tamed."
+            },
+            {
+              "ref": "dhp324",
+              "label": "324",
+              "text": "The tusker named Dhanapāla\nis musky in rut, hard to control.\nBound, he eats not a morsel,\nfor he misses the elephant forest."
+            },
+            {
+              "ref": "dhp325",
+              "label": "325",
+              "text": "One who gets drowsy from overeating,\nfond of sleep, rolling round the bed\nlike a great hog stuffed with grain:\nthat dullard returns to the womb again and again."
+            },
+            {
+              "ref": "dhp326",
+              "label": "326",
+              "text": "In the past my mind wandered\nhow it wished, where it liked, as it pleased.\nNow I’ll carefully guide it,\nas a trainer with a hook guides a rutting elephant."
+            },
+            {
+              "ref": "dhp327",
+              "label": "327",
+              "text": "Delight in diligence!\nTake good care of your mind!\nPull yourself out of this pit,\nlike an elephant sunk in a bog."
+            },
+            {
+              "ref": "dhp328",
+              "label": "328",
+              "text": "If you find an alert companion,\nan attentive friend to live happily together,\nthen, overcoming all adversities,\nwander with them, joyful and mindful."
+            },
+            {
+              "ref": "dhp329",
+              "label": "329",
+              "text": "If you find no alert companion,\nno attentive friend to live happily together,\nthen, like a king who flees his conquered realm,\nwander alone like a tusker in the wilds."
+            },
+            {
+              "ref": "dhp330",
+              "label": "330",
+              "text": "It’s better to wander alone,\nthere’s no fellowship with fools.\nWander alone and do no wrong,\nat ease like a tusker in the wilds."
+            },
+            {
+              "ref": "dhp331",
+              "label": "331",
+              "text": "A friend in need is a blessing;\nit’s a blessing to be content with whatever;\ngood deeds are a blessing at the end of life,\nand giving up all suffering is a blessing."
+            },
+            {
+              "ref": "dhp332",
+              "label": "332",
+              "text": "In this world it’s a blessing to serve\none’s mother and one’s father.\nAnd it’s a blessing also to serve\nascetics and brahmins."
+            },
+            {
+              "ref": "dhp333",
+              "label": "333",
+              "text": "It’s a blessing to keep precepts until you grow old;\na blessing to be grounded in faith;\nthe getting of wisdom’s a blessing;\nand it’s a blessing to avoid doing wrong."
+            }
+          ]
+        },
+        {
+          "title": "24. Craving",
+          "reference": "Verses 334–359",
+          "sourceUrl": "https://suttacentral.net/dhp334-359/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp334",
+              "label": "334",
+              "text": "When a man lives heedlessly,\ncraving grows in them like a camel’s foot creeper.\nThey jump from one thing to the next, like a langur\ngreedy for fruit in a forest grove."
+            },
+            {
+              "ref": "dhp335",
+              "label": "335",
+              "text": "Whoever is beaten by this wretched craving,\nthis attachment to the world,\ntheir sorrow grows,\nlike grass in the rain."
+            },
+            {
+              "ref": "dhp336",
+              "label": "336",
+              "text": "But whoever prevails over this wretched craving,\nso hard to get over in the world,\ntheir sorrows fall from them,\nlike a drop from a lotus-leaf."
+            },
+            {
+              "ref": "dhp337",
+              "label": "337",
+              "text": "I say this to you, good people,\nall those who have gathered here:\ndig up the root of craving,\nas you’d dig up grass in search of roots.\nDon’t let Māra break you again and again,\nlike a stream breaking a reed."
+            },
+            {
+              "ref": "dhp338",
+              "label": "338",
+              "text": "A tree grows back even when cut down,\nso long as its roots are strong and undamaged;\nsuffering springs up again and again,\nso long as the tendency to craving is not pulled out."
+            },
+            {
+              "ref": "dhp339",
+              "label": "339",
+              "text": "A person of low views\nin whom the thirty-six streams\nthat flow to pleasure are mighty,\nis swept away by lustful thoughts."
+            },
+            {
+              "ref": "dhp340",
+              "label": "340",
+              "text": "The streams flow everywhere;\na weed springs up and remains.\nSeeing this weed that has been born,\ncut the root with wisdom."
+            },
+            {
+              "ref": "dhp341",
+              "label": "341",
+              "text": "A personage’s joys\nflow from senses and cravings.\nSeekers of happiness, bent on pleasure,\ncontinue to be reborn and grow old."
+            },
+            {
+              "ref": "dhp342",
+              "label": "342",
+              "text": "People governed by thirst,\ncrawl about like a trapped rabbit.\nBound and fettered, for a long time\nthey return to pain time and again."
+            },
+            {
+              "ref": "dhp343",
+              "label": "343",
+              "text": "People governed by thirst,\ncrawl about like a trapped rabbit.\nThat’s why one who longs for dispassion\nshould dispel thirst."
+            },
+            {
+              "ref": "dhp344",
+              "label": "344",
+              "text": "Unsnarled, they set out for the jungle,\nthen they run right back to the jungle they left behind.\nJust look at this individual!\nFreed, they run to bondage."
+            },
+            {
+              "ref": "dhp345",
+              "label": "345",
+              "text": "The attentive say that shackle is not strong\nthat’s made of iron, wood, or knots.\nBut obsession with jeweled earrings,\nconcern for your partners and children:"
+            },
+            {
+              "ref": "dhp346",
+              "label": "346",
+              "text": "this, say the attentive, is a strong shackle\ndragging the indulgent down, hard to escape.\nHaving cut this one too they go forth,\nunconcerned, having given up sensual pleasures."
+            },
+            {
+              "ref": "dhp347",
+              "label": "347",
+              "text": "Besotted by lust they fall into the stream,\nlike a spider caught in the web she wove.\nThe attentive proceed, having cut this one too,\nunconcerned, having given up all suffering."
+            },
+            {
+              "ref": "dhp348",
+              "label": "348",
+              "text": "Let go of the past, let go of the future,\nlet go of the present, having gone beyond rebirth.\nWith your heart freed in every respect,\nyou’ll not come again to rebirth and old age."
+            },
+            {
+              "ref": "dhp349",
+              "label": "349",
+              "text": "For a personage churned by thoughts,\nvery lustful, focusing on beauty,\ntheir craving grows and grows,\ntying them with a stout bond."
+            },
+            {
+              "ref": "dhp350",
+              "label": "350",
+              "text": "But one who loves to calm their thoughts,\ndeveloping perception of ugliness, ever mindful,\nwill surely eliminate that craving,\ncutting off the bonds of Māra."
+            },
+            {
+              "ref": "dhp351",
+              "label": "351",
+              "text": "One who is confident, unafraid,\nrid of craving, free of blemish,\nhaving struck down the arrows flying to future lives,\nthis bag of bones is their last."
+            },
+            {
+              "ref": "dhp352",
+              "label": "352",
+              "text": "Rid of craving, free of grasping,\nexpert in the definition of terms,\nknowing the correct\nstructure and sequence of syllables,\nthey are said to be one who bears their final body,\none of great wisdom, a great person."
+            },
+            {
+              "ref": "dhp353",
+              "label": "353",
+              "text": "I am the vanquisher of all, the knower of all,\nunsullied in the midst of all things.\nI’ve given up all, freed in the ending of craving.\nSince I know for myself, whose follower should I be?"
+            },
+            {
+              "ref": "dhp354",
+              "label": "354",
+              "text": "The gift of the teaching surmounts all other gifts;\nthe taste of the teaching surmounts all other tastes;\nthe joy of the teaching surmounts all other joys;\nthe ending of craving surmounts all suffering."
+            },
+            {
+              "ref": "dhp355",
+              "label": "355",
+              "text": "Riches ruin a simpleton,\nbut not a seeker of the far shore.\nFrom craving for wealth, a simpleton\nruins themselves and others."
+            },
+            {
+              "ref": "dhp356",
+              "label": "356",
+              "text": "Weeds are the bane of crops,\nbut greed is these folk’s bane.\nThat’s why a gift to one rid of greed\nis so very fruitful."
+            },
+            {
+              "ref": "dhp357",
+              "label": "357",
+              "text": "Weeds are the bane of crops,\nbut hate is these folk’s bane.\nThat’s why a gift to one rid of hate\nis so very fruitful."
+            },
+            {
+              "ref": "dhp358",
+              "label": "358",
+              "text": "Weeds are the bane of crops,\nbut delusion is these folk’s bane.\nThat’s why a gift to one rid of delusion\nis so very fruitful."
+            },
+            {
+              "ref": "dhp359",
+              "label": "359",
+              "text": "Weeds are the bane of crops,\nbut desire is these folk’s bane.\nThat’s why a gift to one rid of desire\nis so very fruitful."
+            }
+          ]
+        },
+        {
+          "title": "25. Mendicants",
+          "reference": "Verses 360–382",
+          "sourceUrl": "https://suttacentral.net/dhp360-382/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp360",
+              "label": "360",
+              "text": "Restraint of the eye is good;\ngood is restraint of the ear;\nrestraint of the nose is good;\ngood is restraint of the tongue."
+            },
+            {
+              "ref": "dhp361",
+              "label": "361",
+              "text": "Restraint of the body is good;\ngood is restraint of speech;\nrestraint of mind is good;\neverywhere, restraint is good.\nThe mendicant restrained everywhere\nis released from all suffering."
+            },
+            {
+              "ref": "dhp362",
+              "label": "362",
+              "text": "One restrained in hand and foot,\nand in speech, the supreme restraint;\nhappy inside, serene,\nsolitary, content, I call a mendicant."
+            },
+            {
+              "ref": "dhp363",
+              "label": "363",
+              "text": "When a mendicant of restrained mouth,\nthoughtful in counsel, not restless,\nexplains the text and its meaning,\ntheir words are sweet."
+            },
+            {
+              "ref": "dhp364",
+              "label": "364",
+              "text": "Delighting in the teaching, enjoying the teaching,\ncontemplating the teaching,\na mendicant who recollects the teaching\ndoesn’t fall away from the true teaching."
+            },
+            {
+              "ref": "dhp365",
+              "label": "365",
+              "text": "A well-off mendicant ought not look down\non others, nor should they be envious.\nA mendicant who envies others\ndoes not achieve immersion."
+            },
+            {
+              "ref": "dhp366",
+              "label": "366",
+              "text": "If a mendicant is poor in offerings,\nthe well-to-do ought not look down on them.\nFor the gods indeed praise them,\nwho are tireless and pure of livelihood."
+            },
+            {
+              "ref": "dhp367",
+              "label": "367",
+              "text": "One who has no sense of ownership\nin the whole realm of name and form,\nwho does not grieve for that which is not,\nis said to be a mendicant."
+            },
+            {
+              "ref": "dhp368",
+              "label": "368",
+              "text": "A mendicant who meditates on love,\ndevoted to the Buddha’s teaching,\nwould realize the peaceful state,\nthe blissful stilling of conditions."
+            },
+            {
+              "ref": "dhp369",
+              "label": "369",
+              "text": "Bail out this boat, mendicant!\nWhen bailed out it will float lightly.\nHaving cut off desire and hate,\nyou shall reach extinguishment."
+            },
+            {
+              "ref": "dhp370",
+              "label": "370",
+              "text": "Five to cut, five to drop,\nand five more to develop.\nWhen a mendicant slips five chains\nthey’re said to have crossed the flood."
+            },
+            {
+              "ref": "dhp371",
+              "label": "371",
+              "text": "Practice absorption, don’t be negligent!\nDon’t let the mind delight in the senses!\nDon’t heedlessly swallow a hot iron ball!\nAnd when it burns, don’t cry, “Oh, the pain!”"
+            },
+            {
+              "ref": "dhp372",
+              "label": "372",
+              "text": "No absorption for one without wisdom,\nno wisdom for one without absorption.\nBut one with absorption and wisdom—\nthey have truly drawn near to extinguishment."
+            },
+            {
+              "ref": "dhp373",
+              "label": "373",
+              "text": "A mendicant who enters an empty hut\nwith mind at peace\nfinds a superhuman delight\nas they rightly discern the Dhamma."
+            },
+            {
+              "ref": "dhp374",
+              "label": "374",
+              "text": "Whenever they are mindful\nof the rise and fall of the aggregates,\nthey feel rapture and joy:\nthat is freedom from death for one who knows."
+            },
+            {
+              "ref": "dhp375",
+              "label": "375",
+              "text": "This is the very start of the path\nfor a wise mendicant here:\nguarding the senses, contentment,\nand restraint in the monastic code."
+            },
+            {
+              "ref": "dhp376",
+              "label": "376",
+              "text": "Mix with spiritual friends,\nwho are tireless and pure of livelihood.\nShare what you have with others,\nbeing skillful in your conduct.\nAnd when you’re full of joy,\nyou’ll make an end to suffering."
+            },
+            {
+              "ref": "dhp377",
+              "label": "377",
+              "text": "As a jasmine sheds\nits withered flowers,\nO mendicants,\nshed greed and hate."
+            },
+            {
+              "ref": "dhp378",
+              "label": "378",
+              "text": "Calm in body, calm in speech,\npeaceful and serene;\na mendicant who’s spat out the world’s bait\nis said to be one at peace."
+            },
+            {
+              "ref": "dhp379",
+              "label": "379",
+              "text": "Urge yourself on,\nreflect on yourself.\nA mendicant self-controlled and mindful\nwill always dwell in happiness."
+            },
+            {
+              "ref": "dhp380",
+              "label": "380",
+              "text": "Self is indeed the lord of self,\nfor who else would be one’s lord?\nSelf is indeed the home of self,\nso restrain yourself,\nas a merchant his thoroughbred steed."
+            },
+            {
+              "ref": "dhp381",
+              "label": "381",
+              "text": "A monk full of joy\ntrusting in the Buddha’s teaching,\nwould realize the peaceful state,\nthe blissful stilling of conditions."
+            },
+            {
+              "ref": "dhp382",
+              "label": "382",
+              "text": "A young mendicant\ndevoted to the Buddha’s teaching,\nshines upon this world,\nlike the moon freed from clouds."
+            }
+          ]
+        },
+        {
+          "title": "26. Brahmins",
+          "reference": "Verses 383–423",
+          "sourceUrl": "https://suttacentral.net/dhp383-423/en/sujato",
+          "paragraphs": [
+            {
+              "ref": "dhp383",
+              "label": "383",
+              "text": "Cut the stream, striving!\nCast aside sensual pleasures, brahmin.\nKnowing the ending of conditions,\nknow the uncreated, brahmin."
+            },
+            {
+              "ref": "dhp384",
+              "label": "384",
+              "text": "When a brahmin has gone beyond\ndualistic phenomena,\nthen they consciously\nmake an end of all fetters."
+            },
+            {
+              "ref": "dhp385",
+              "label": "385",
+              "text": "One for whom there is no crossing over\nor crossing back, or crossing over and back;\nstress-free, detached,\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp386",
+              "label": "386",
+              "text": "Absorbed, rid of hopes,\ntheir task completed, without defilements,\narrived at the highest goal:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp387",
+              "label": "387",
+              "text": "The sun blazes by day,\nthe moon radiates at night,\nthe aristocrat shines in armor,\nand the brahmin shines in absorption.\nBut all day and all night,\nthe Buddha blazes with glory."
+            },
+            {
+              "ref": "dhp388",
+              "label": "388",
+              "text": "A brahmin’s so-called since they’ve banished evil,\nan ascetic’s so-called since they live a serene life.\nOne who has renounced all stains\nis said to be a “renunciant”."
+            },
+            {
+              "ref": "dhp389",
+              "label": "389",
+              "text": "One should never strike a brahmin,\nnor should a brahmin retaliate.\nWoe to the one who hurts a brahmin,\nand woe for the one who retaliates."
+            },
+            {
+              "ref": "dhp390",
+              "label": "390",
+              "text": "Nothing is better for a brahmin\nthan to hold their mind back from attachment.\nFrom wherever a cruel wish recoils,\nright there suffering subsides."
+            },
+            {
+              "ref": "dhp391",
+              "label": "391",
+              "text": "Who does nothing wrong\nby body, speech or mind,\nrestrained in these three respects,\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp392",
+              "label": "392",
+              "text": "You should graciously honor\nthe one from whom you learn the Dhamma\ntaught by the awakened Buddha,\nas a brahmin honors the sacred flame."
+            },
+            {
+              "ref": "dhp393",
+              "label": "393",
+              "text": "Not by matted hair or family,\nor birth is one a brahmin.\nThose who are  truthful and principled:\nthey are pure, they are brahmins."
+            },
+            {
+              "ref": "dhp394",
+              "label": "394",
+              "text": "Why the matted hair, you simpleton,\nand why the skin of deer?\nThe tangle is inside you,\nyet you polish up your outsides."
+            },
+            {
+              "ref": "dhp395",
+              "label": "395",
+              "text": "A personage who wears robes of rags,\nlean, their limbs showing veins,\nmeditating alone in the forest,\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp396",
+              "label": "396",
+              "text": "I don’t call someone a brahmin\nafter the mother’s womb they’re born from.\nIf they still have attachments,\nthey’re just someone who says “worthy”.\nHaving nothing, taking nothing:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp397",
+              "label": "397",
+              "text": "Having cut off all fetters\nthey have no anxiety.\nThey’ve slipped their chains and are detached:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp398",
+              "label": "398",
+              "text": "They’ve cut the strap and harness,\nthe halter and bridle too,\nwith cross-bar lifted, they’re awakened:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp399",
+              "label": "399",
+              "text": "Abuse, killing, caging:\nthey endure these without anger.\nPatience is their powerful army:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp400",
+              "label": "400",
+              "text": "Not irritable or pretentious,\ndutiful in precepts and observances,\ntamed, bearing their final body:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp401",
+              "label": "401",
+              "text": "Like water from a lotus leaf,\nlike a mustard seed off the point of a pin,\nsensual pleasures slip off them:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp402",
+              "label": "402",
+              "text": "They understand for themselves\nthe end of suffering in this life;\nwith burden put down, detached:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp403",
+              "label": "403",
+              "text": "Deep in wisdom, intelligent,\nexpert in the path and what is not the path;\narrived at the highest goal:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp404",
+              "label": "404",
+              "text": "Mixing with neither\nhouseholders nor the homeless;\na migrant with no bastion, few in wishes:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp405",
+              "label": "405",
+              "text": "They’ve laid aside violence\nagainst creatures firm and frail;\nnot killing or making others kill:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp406",
+              "label": "406",
+              "text": "Not fighting among those who fight,\nquenched among those who have taken up arms,\nnot grasping among those who grasp:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp407",
+              "label": "407",
+              "text": "They’ve discarded greed and hate,\nalong with conceit and contempt,\nlike a mustard seed off the point of a pin:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp408",
+              "label": "408",
+              "text": "The words they utter\nare polished, informative, and true,\nand don’t offend anyone:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp409",
+              "label": "409",
+              "text": "They don’t steal anything in the world,\nlong or short,\ntiny or huge, beautiful or ugly:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp410",
+              "label": "410",
+              "text": "They have no hope\nin this world or the next;\nwith no need for hope, detached:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp411",
+              "label": "411",
+              "text": "They have no clinging,\nknowledge has freed them of indecision,\nthey’ve arrived at the objective, freedom from death:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp412",
+              "label": "412",
+              "text": "They’ve escaped the chain\nof both good and bad deeds;\nsorrowless, stainless, pure:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp413",
+              "label": "413",
+              "text": "Pure as the spotless moon,\nclear and unclouded,\nthey’ve ended relish for rebirth:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp414",
+              "label": "414",
+              "text": "They’ve got past this grueling swamp\nof delusion, transmigration.\nMeditating in stillness, free of indecision,\nthey have crossed over to the far shore.\nThey’re quenched by not grasping:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp415",
+              "label": "415",
+              "text": "They’ve given up sensual pleasures,\nand have gone forth from lay life;\nthey’ve ended rebirth in the sensual realm:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp416",
+              "label": "416",
+              "text": "They’ve given up craving,\nand have gone forth from lay life;\nthey’ve ended craving to be reborn:\nthat’s who I declare a brahmin.\nThey’ve given up craving,\nand have gone forth from lay life;\nthey’ve ended craving to be reborn:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp417",
+              "label": "417",
+              "text": "They’ve thrown off the human yoke,\nand slipped out of the heavenly yoke;\nunyoked from all yokes:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp418",
+              "label": "418",
+              "text": "Giving up desire and discontent,\nthey’re cooled and free of attachments;\na hero, master of the whole world:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp419",
+              "label": "419",
+              "text": "They know the passing away\nand rebirth of all beings;\nunattached, holy, awakened:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp420",
+              "label": "420",
+              "text": "Gods, centaurs, and humans\ndon’t know their destiny;\nthe perfected ones with defilements ended:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp421",
+              "label": "421",
+              "text": "They have nothing before or after,\nor even in between.\nHaving nothing, taking nothing:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp422",
+              "label": "422",
+              "text": "Captain of the herd, excellent hero,\ngreat seer and victor;\nunstirred, washed, awakened:\nthat’s who I declare a brahmin."
+            },
+            {
+              "ref": "dhp423",
+              "label": "423",
+              "text": "One who knows their past lives,\nsees heaven and places of loss,\nand has attained the end of rebirth;\na sage of perfect insight\nat the summit of spiritual perfection:\nthat’s who I declare a brahmin.\nThe Sayings of the Dhamma are complete."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heart-sutra",
+      "title": "The Heart Sutra",
+      "subtitle": "The perfection of wisdom in a few lines",
+      "tradition": "Mahayana",
+      "reference": "Taishō T 251 · 848c06–22",
+      "kind": "Complete short Chinese recension",
+      "description": "Avalokiteśvara’s teaching on emptiness, wisdom and freedom from fear.",
+      "language": "English",
+      "translator": "New English rendering by ChatGPT, 2026, from Xuanzang’s Chinese recension",
+      "license": "New rendering of an ancient public-domain text",
+      "sourceUrl": "https://cbetaonline.dila.edu.tw/zh/T0251_001",
+      "note": "A new reading translation, not a published scholarly edition. Based on T 251, 848c06–22, as preserved by CBETA. The later preface and textual apparatus are not part of the sutra and are omitted. The mantra is transliterated. “Empty” here means empty of independent, inherent existence.",
+      "sections": [
+        {
+          "title": "The Heart Sutra",
+          "paragraphs": [
+            {
+              "ref": "T251:1",
+              "label": "",
+              "text": "When the bodhisattva Avalokiteśvara was practicing the profound perfection of wisdom, he saw clearly that the five aggregates are all empty, and passed beyond all suffering and distress."
+            },
+            {
+              "ref": "T251:2",
+              "label": "",
+              "text": "Śāriputra, form is not different from emptiness, and emptiness is not different from form. Form itself is emptiness; emptiness itself is form. Feeling, perception, formations and consciousness are also like this."
+            },
+            {
+              "ref": "T251:3",
+              "label": "",
+              "text": "Śāriputra, all phenomena have the character of emptiness: they neither arise nor cease, are neither defiled nor pure, and neither increase nor decrease."
+            },
+            {
+              "ref": "T251:4",
+              "label": "",
+              "text": "Therefore, in emptiness there is no form, no feeling, perception, formations or consciousness; no eye, ear, nose, tongue, body or mind; no visible form, sound, smell, taste, touch or mental object; no realm of the eye, and so on up to no realm of mind-consciousness."
+            },
+            {
+              "ref": "T251:5",
+              "label": "",
+              "text": "There is no ignorance and no ending of ignorance, and so on up to no aging and death and no ending of aging and death. There is no suffering, origin, cessation or path; no knowledge and no attainment."
+            },
+            {
+              "ref": "T251:6",
+              "label": "",
+              "text": "Because there is nothing to attain, the bodhisattva relies on the perfection of wisdom, and the mind is unobstructed. Being unobstructed, it is without fear. Far beyond confused, dreamlike thinking, the bodhisattva reaches ultimate nirvāṇa."
+            },
+            {
+              "ref": "T251:7",
+              "label": "",
+              "text": "All the buddhas of the past, present and future rely on the perfection of wisdom and attain unsurpassed, complete and perfect awakening."
+            },
+            {
+              "ref": "T251:8",
+              "label": "",
+              "text": "Know, then, that the perfection of wisdom is the great powerful mantra, the mantra of great illumination, the unsurpassed mantra, the unequalled mantra. It removes all suffering. It is true, without deception."
+            },
+            {
+              "ref": "T251:9",
+              "label": "",
+              "text": "Therefore the mantra of the perfection of wisdom is spoken, saying:"
+            },
+            {
+              "ref": "T251:10",
+              "label": "",
+              "text": "Gate gate pāragate pārasaṃgate bodhi svāhā."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "translator": "Bhikkhu Sujato",
+      "license": "CC0 1.0 · Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Complete translation, preserved from SuttaCentral. Paragraph and verse layout adapted for reading; wording is unchanged. Line-joining markup is removed.",
+      "id": "metta",
+      "title": "Loving-Kindness",
+      "subtitle": "Karaṇīya Mettā Sutta",
+      "tradition": "Early Buddhism",
+      "reference": "Snp 1.8",
+      "kind": "Complete discourse",
+      "description": "A boundless heart of goodwill toward every living being.",
+      "sourceUrl": "https://suttacentral.net/snp1.8/en/sujato",
+      "sections": [
+        {
+          "title": "Loving-Kindness",
+          "paragraphs": [
+            {
+              "ref": "snp1.8:1.1",
+              "label": "",
+              "text": "Those who are skilled in the meaning of scripture\nshould practice as follows to realize the state of peace.\nLet them be capable and upright, very upright,\neasy to speak to, gentle and humble;"
+            },
+            {
+              "ref": "snp1.8:2.1",
+              "label": "",
+              "text": "content and unburdensome,\nunbusied, living lightly,\nalert, with senses calmed,\ncourteous, not fawning on families."
+            },
+            {
+              "ref": "snp1.8:3.1",
+              "label": "",
+              "text": "Let them not do the slightest thing\nthat others who are wise would blame.\nMay they be happy and safe!\nMay all beings be happy!"
+            },
+            {
+              "ref": "snp1.8:4.1",
+              "label": "",
+              "text": "Whatever living creatures there are\nwith not a one left out—\nfrail or firm, long or large,\nmedium, small, tiny or round,"
+            },
+            {
+              "ref": "snp1.8:5.1",
+              "label": "",
+              "text": "seen or unseen,\nliving far or near,\nthose who have been born and those about to be born—\nmay all beings be happy!"
+            },
+            {
+              "ref": "snp1.8:6.1",
+              "label": "",
+              "text": "Let none deceive another,\nnor look down on anyone anywhere.\nThough provoked or aggrieved,\nlet them not wish pain on each other."
+            },
+            {
+              "ref": "snp1.8:7.1",
+              "label": "",
+              "text": "Even as a mother would protect with her life\nher child, her only child,\nso too for all creatures\nunfold a boundless heart."
+            },
+            {
+              "ref": "snp1.8:8.1",
+              "label": "",
+              "text": "With love for the whole world,\nunfold a boundless heart:\nabove, below, all round,\nunconstricted, without enmity or foe."
+            },
+            {
+              "ref": "snp1.8:9.1",
+              "label": "",
+              "text": "When standing, walking, sitting,\nor lying down while yet unweary,\nkeep this ever in mind;\nfor this, they say, is a divine meditation in this life."
+            },
+            {
+              "ref": "snp1.8:10.1",
+              "label": "",
+              "text": "Avoiding harmful views,\nvirtuous, accomplished in insight,\nwith desire for sensual pleasures dispelled,\nthey never return to a womb again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "translator": "Bhikkhu Sujato",
+      "license": "CC0 1.0 · Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Complete translation, preserved from SuttaCentral. Paragraph and verse layout adapted for reading; wording is unchanged. Line-joining markup is removed.",
+      "id": "blessings",
+      "title": "Blessings",
+      "subtitle": "Maṅgala Sutta",
+      "tradition": "Early Buddhism",
+      "reference": "Snp 2.4",
+      "kind": "Complete discourse",
+      "description": "A good life rooted in wise friendship, learning, gratitude and patient practice.",
+      "sourceUrl": "https://suttacentral.net/snp2.4/en/sujato",
+      "sections": [
+        {
+          "title": "Blessings",
+          "paragraphs": [
+            {
+              "ref": "snp2.4:1.1",
+              "label": "",
+              "text": "So I have heard.\nAt one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.\nThen, late at night, a glorious deity, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, and stood to one side.\nThat deity addressed the Buddha in verse:"
+            },
+            {
+              "ref": "snp2.4:2.1",
+              "label": "",
+              "text": "“Many gods and humans\nhave thought about blessings\ndesiring well-being:\ndeclare the highest blessing.”"
+            },
+            {
+              "ref": "snp2.4:3.1",
+              "label": "",
+              "text": "“Not to fraternize with fools,\nbut to fraternize with the wise,\nand honoring those worthy of honor:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:4.1",
+              "label": "",
+              "text": "Living in a suitable region,\nhaving made merit in the past,\nbeing rightly resolved in oneself,\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:5.1",
+              "label": "",
+              "text": "Education and a craft,\ndiscipline and training,\nand well-spoken speech:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:6.1",
+              "label": "",
+              "text": "Caring for mother and father,\nkindness to children and partners,\nand unstressful work:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:7.1",
+              "label": "",
+              "text": "Giving and righteous conduct,\nkindness to relatives,\nblameless deeds:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:8.1",
+              "label": "",
+              "text": "Desisting and abstaining from evil,\navoiding drinking liquor,\ndiligence in good qualities:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:9.1",
+              "label": "",
+              "text": "Respect and placidity,\ncontentment and gratitude,\nand timely listening to the teaching:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:10.1",
+              "label": "",
+              "text": "Patience, being easy to admonish,\nthe sight of ascetics,\nand timely discussion of the teaching:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:11.1",
+              "label": "",
+              "text": "Fervor and chastity\nseeing the noble truths,\nand realization of extinguishment:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:12.1",
+              "label": "",
+              "text": "Though touched by worldly conditions,\ntheir mind does not tremble;\nsorrowless, stainless, secure:\nthis is the highest blessing."
+            },
+            {
+              "ref": "snp2.4:13.1",
+              "label": "",
+              "text": "Having completed these things,\nundefeated everywhere;\neverywhere they go in safety:\nthis is their highest blessing.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "translator": "Bhikkhu Sujato",
+      "license": "CC0 1.0 · Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Complete translation, preserved from SuttaCentral. Paragraph and verse layout adapted for reading; wording is unchanged. Line-joining markup is removed.",
+      "id": "first-teaching",
+      "title": "The First Teaching",
+      "subtitle": "Dhammacakkappavattana Sutta",
+      "tradition": "Early Buddhism",
+      "reference": "SN56.11",
+      "kind": "Complete discourse",
+      "description": "The middle way, the Four Noble Truths and the Noble Eightfold Path.",
+      "sourceUrl": "https://suttacentral.net/sn56.11/en/sujato",
+      "sections": [
+        {
+          "title": "The First Teaching",
+          "paragraphs": [
+            {
+              "ref": "sn56.11:1.1",
+              "label": "",
+              "text": "At one time the Buddha was staying near Varanasi in the deer park at Isipatana.\nThere the Buddha addressed the group of five mendicants:"
+            },
+            {
+              "ref": "sn56.11:2.1",
+              "label": "",
+              "text": "“Mendicants, these two extremes should not be cultivated by one gone forth.\nWhat two?\nIndulgence in sensual pleasures, which is low, crude, ordinary, ignoble, and pointless. And indulgence in self-mortification, which is painful, ignoble, and pointless.\nAvoiding these two extremes, the Realized One understood the middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment."
+            },
+            {
+              "ref": "sn56.11:3.1",
+              "label": "",
+              "text": "And what is that middle way of practice?\nIt is simply this noble eightfold path, that is:\nright view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.\nThis is that middle way of practice, which gives vision and knowledge, and leads to peace, direct knowledge, awakening, and extinguishment."
+            },
+            {
+              "ref": "sn56.11:4.1",
+              "label": "",
+              "text": "Now this is the noble truth of suffering.\nRebirth is suffering; old age is suffering; illness is suffering; death is suffering; being coupled with the disliked is suffering; separation from the liked is suffering; not getting what you wish for is suffering. In brief, the five grasping aggregates are suffering.\nNow this is the noble truth of the origin of suffering.\nIt’s the craving that leads to future lives, mixed up with relishing and greed, taking pleasure there wherever it alights. That is,\ncraving for sensual pleasures, craving for continued existence, and craving for nonexistence.\nNow this is the noble truth of the cessation of suffering.\nIt’s the fading away and cessation of that very same craving no residue left behind; giving it away, letting it go, releasing it, and not clinging to it.\nNow this is the noble truth of the practice that leads to the cessation of suffering.\nIt is simply this noble eightfold path, that is:\nright view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion."
+            },
+            {
+              "ref": "sn56.11:5.1",
+              "label": "",
+              "text": "‘This is the noble truth of suffering.’ Such was the vision, knowledge, wisdom, realization, and light that arose in me regarding teachings not learned before from another.\n‘This noble truth of suffering should be completely understood.’ Such was the vision that arose in me …\n‘This noble truth of suffering has been completely understood.’ Such was the vision that arose in me …"
+            },
+            {
+              "ref": "sn56.11:6.1",
+              "label": "",
+              "text": "‘This is the noble truth of the origin of suffering.’ Such was the vision that arose in me …\n‘This noble truth of the origin of suffering should be given up.’ Such was the vision that arose in me …\n‘This noble truth of the origin of suffering has been given up.’ Such was the vision that arose in me …"
+            },
+            {
+              "ref": "sn56.11:7.1",
+              "label": "",
+              "text": "‘This is the noble truth of the cessation of suffering.’ Such was the vision that arose in me …\n‘This noble truth of the cessation of suffering should be realized.’ Such was the vision that arose in me …\n‘This noble truth of the cessation of suffering has been realized.’ Such was the vision that arose in me …"
+            },
+            {
+              "ref": "sn56.11:8.1",
+              "label": "",
+              "text": "‘This is the noble truth of the practice that leads to the cessation of suffering.’ Such was the vision that arose in me …\n‘This noble truth of the practice that leads to the cessation of suffering should be developed.’ Such was the vision that arose in me …\n‘This noble truth of the practice that leads to the cessation of suffering has been developed.’ Such was the vision, knowledge, wisdom, realization, and light that arose in me regarding teachings not learned before from another."
+            },
+            {
+              "ref": "sn56.11:9.1",
+              "label": "",
+              "text": "As long as my true knowledge and vision about these four noble truths was not fully purified in these three rounds and twelve aspects, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans."
+            },
+            {
+              "ref": "sn56.11:10.1",
+              "label": "",
+              "text": "But when my true knowledge and vision about these four noble truths was fully purified in these three rounds and twelve aspects, I announced my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans.\nKnowledge and vision arose in me:\n‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’”\nThat is what the Buddha said.\nSatisfied, the group of five mendicants approved what the Buddha said."
+            },
+            {
+              "ref": "sn56.11:11.1",
+              "label": "",
+              "text": "And while this discourse was being spoken, the stainless, immaculate vision of the Dhamma arose in Venerable Koṇḍañña:\n“Everything that is liable to arise is liable to cease.”"
+            },
+            {
+              "ref": "sn56.11:12.1",
+              "label": "",
+              "text": "And when the Buddha rolled forth the Wheel of Dhamma, the earth gods raised the cry:\n“Near Varanasi, in the deer park at Isipatana, the Buddha has rolled forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or divinity or by anyone in the world.”\nHearing the cry of the earth gods, the gods of the four great kings …\nthe gods of the thirty-three …\nthe gods of Yama …\nthe joyful gods …\nthe gods who love to create …\nthe gods who control what is created by others …\nthe gods of the Divinity’s host raised the cry:\n“Near Varanasi, in the deer park at Isipatana, the Buddha has rolled forth the supreme Wheel of Dhamma. And that wheel cannot be rolled back by any ascetic or brahmin or god or Māra or divinity or by anyone in the world.”"
+            },
+            {
+              "ref": "sn56.11:13.1",
+              "label": "",
+              "text": "And so at that moment, that second, that hour, the cry soared up to the realm of divinity.\nAnd this ten-thousandfold galaxy shook and rocked and trembled. And an immeasurable, magnificent light appeared in the world, surpassing the glory of the gods."
+            },
+            {
+              "ref": "sn56.11:14.1",
+              "label": "",
+              "text": "Then the Buddha expressed this heartfelt sentiment:\n“Koṇḍañña has really understood! Koṇḍañña has really understood!”\nAnd that’s how Venerable Koṇḍañña came to be known as “Koṇḍañña Who Understood”."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "translator": "Bhikkhu Sujato",
+      "license": "CC0 1.0 · Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Complete translation, preserved from SuttaCentral. Paragraph and verse layout adapted for reading; wording is unchanged. Line-joining markup is removed.",
+      "id": "eight-precepts",
+      "title": "The Eight Precepts",
+      "subtitle": "Uposatha with eight factors",
+      "tradition": "Early Buddhism",
+      "reference": "AN8.41",
+      "kind": "Complete discourse",
+      "description": "The Buddha’s teaching on one day and night of observance.",
+      "sourceUrl": "https://suttacentral.net/an8.41/en/sujato",
+      "sections": [
+        {
+          "title": "The Eight Precepts",
+          "paragraphs": [
+            {
+              "ref": "an8.41:1.1",
+              "label": "",
+              "text": "So I have heard.\nAt one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.\nThere the Buddha addressed the mendicants,\n“Mendicants!”\n“Venerable sir,” they replied.\nThe Buddha said this:"
+            },
+            {
+              "ref": "an8.41:2.1",
+              "label": "",
+              "text": "“Mendicants, the observance of the sabbath with its eight factors is very fruitful and beneficial and brilliant and bountiful.\nAnd how should it be observed?\nIt’s when a noble disciple reflects:\n‘As long as they live, the perfected ones give up killing living creatures, renouncing the rod and the sword. They are scrupulous and kind, and live full of sympathy for all living beings.\nI, too, for this day and night will give up killing living creatures, renouncing the rod and the sword. I’ll be scrupulous and kind, and live full of sympathy for all living beings.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its first factor."
+            },
+            {
+              "ref": "an8.41:3.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving.\nI, too, for this day and night will give up stealing. I’ll take only what’s given, and expect only what’s given. I’ll keep myself clean by not thieving.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its second factor."
+            },
+            {
+              "ref": "an8.41:4.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones give up unchastity. They are chaste, set apart, refraining from the vulgar act of sex.\nI, too, for this day and night will give up unchastity. I will be chaste, set apart, refraining from the vulgar act of sex.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its third factor."
+            },
+            {
+              "ref": "an8.41:5.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones give up lying. They speak the truth and stick to the truth. They’re honest and dependable, and don’t trick the world with their words.\nI, too, for this day and night will give up lying. I’ll speak the truth and stick to the truth. I’ll be honest and dependable, and won’t trick the world with my words.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its fourth factor."
+            },
+            {
+              "ref": "an8.41:6.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones give up intoxicants of beer, wine, and liquor.\nI, too, for this day and night will give up intoxicants of beer, wine, and liquor.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its fifth factor."
+            },
+            {
+              "ref": "an8.41:7.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones eat in one part of the day, abstaining from eating at night and from food at the wrong time.\nI, too, for this day and night will eat in one part of the day, abstaining from eating at night and food at the wrong time.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its sixth factor."
+            },
+            {
+              "ref": "an8.41:8.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones give up seeing shows of dancing, singing, and music; and attiring and adorning themselves with garlands, fragrance, and makeup.\nI, too, for this day and night will give up seeing shows of dancing, singing, and music; and attiring and adorning myself with garlands, fragrance, and makeup.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its seventh factor."
+            },
+            {
+              "ref": "an8.41:9.1",
+              "label": "",
+              "text": "‘As long as they live, the perfected ones give up high and luxurious beds. They sleep in a low place, either a cot or a grass mat.\nI, too, for this day and night will give up high and luxurious beds. I’ll sleep in a low place, either a cot or a grass mat.\nI will observe the sabbath by doing as the perfected ones do in this respect.’\nThis is its eighth factor."
+            },
+            {
+              "ref": "an8.41:10.1",
+              "label": "",
+              "text": "The observance of the sabbath with its eight factors in this way is very fruitful and beneficial and brilliant and bountiful.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

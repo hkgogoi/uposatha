@@ -1,5 +1,5 @@
-/* Uposatha v16: portable static hosting, including GitHub Pages project paths. */
-const RELEASE = 'v16-4ce2dd247cb71a32';
+/* Uposatha v17: portable static hosting, including GitHub Pages project paths. */
+const RELEASE = 'v17-f73769b470a75a39';
 const BASE = new URL(self.registration.scope);
 const CACHE_PREFIX = 'uposatha-pages-' + encodeURIComponent(BASE.pathname) + '-';
 const CACHE = CACHE_PREFIX + RELEASE;
@@ -102,3 +102,4 @@ self.addEventListener('fetch', event => {
     catch { return new Response('Unavailable offline', {status: 503}); }
   })());
 });
+

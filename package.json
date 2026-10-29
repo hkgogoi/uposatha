@@ -1,10 +1,10 @@
 {
   "name": "uposatha-github-pages",
   "private": true,
-  "version": "16.0.0",
+  "version": "17.0.0",
   "type": "module",
   "scripts": {
-    "test": "node maintenance/test_playback.cjs && node maintenance/test_pages.cjs",
+    "test": "node maintenance/test_playback.cjs && node maintenance/test_pages.cjs && node maintenance/test_readings.cjs && python3 maintenance/test_aws.py",
     "release": "python3 maintenance/refresh_release.py"
   }
 }

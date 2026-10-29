@@ -63,7 +63,7 @@ function runtime(scope) {
 
 (async()=>{
   await test('All shipped JavaScript parses without dependencies',()=>{
-    for(const file of ['sw.js','assets/index-UposathaV16.js','assets/page-UposathaV16.js'])
+    for(const file of ['sw.js','assets/index-UposathaV16.js','assets/page-UposathaV16.js','assets/readings-v17.js'])
       cp.execFileSync(process.execPath,['--check',path.join(site,file)],{stdio:'pipe'});
   });
   await test('HTML, media, preload and worker registration stay inside the project',()=>{
@@ -101,6 +101,8 @@ function runtime(scope) {
       r.state.offline=true;
       assert.equal(await (await r.fetchEvent('?launch=app',{mode:'navigate'})).text(),html);
       assert.equal((await r.fetchEvent('assets/page-UposathaV16.js')).status,200);
+      assert.equal((await r.fetchEvent('assets/readings-v17.js')).status,200);
+      assert.equal((await (await r.fetchEvent('assets/readings-v17.json')).json()).books.length,6);
       assert.deepEqual(await (await r.fetchEvent('offline-assets.json')).json(),inventory);
     });
     await test('Offline audio supports explicit, suffix, open and invalid ranges at '+new URL(scope).pathname,async()=>{
@@ -115,8 +117,10 @@ function runtime(scope) {
     });
   }
   await test('Incomplete downloads never activate the replacement worker',async()=>{
-    const r=runtime('https://example.github.io/uposatha/');r.state.missing='audio/tibetan-om-tare.mp3';
-    await assert.rejects(r.event('install'));assert.equal(r.state.skip,0);assert.equal(await r.ready(),false);
+    for(const missing of ['audio/tibetan-om-tare.mp3','assets/readings-v17.json']){
+      const r=runtime('https://example.github.io/uposatha/');r.state.missing=missing;
+      await assert.rejects(r.event('install'));assert.equal(r.state.skip,0);assert.equal(await r.ready(),false);
+    }
   });
   await test('Mismatched deployment files never activate',async()=>{
     const r=runtime('https://example.github.io/uposatha/');r.state.badShell=true;

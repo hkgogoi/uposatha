@@ -1,50 +1,41 @@
-Uposatha GitHub Pages edition v16 — 23 October 2026
+Uposatha Version 17 · 29 October 2026
 
-SOURCE
-Uposatha_Chants_20261021_v15.zip, the latest recovered release.
-This package is a GitHub Pages conversion, not a new application design.
+Added six complete English reading texts, adjustable font size (16–30 px),
+paper/night themes, automatic on-device chapter/position retention, and Read
+navigation. Every text carries translator/source information. The Dhammapada
+contains all 423 verses in 26 chapters. Five SuttaCentral translations are CC0;
+the Heart Sutra is a labelled new rendering from the Chinese T 251 recension.
 
-AUTOMATED CHECKS: 35/35 PASS
-18 playback/package checks:
-  Playlist completeness, order, opening homage and music, direct selection,
-  paused/playing state, tradition switching, repeat, error recovery, stale
-  promises, displayed selection/credits, and offline asset coverage.
-17 GitHub Pages checks:
-  JavaScript syntax; relative HTML/media/preload/worker paths; install identity
-  and icon resolution; full offline inventory; offline installation and launch
-  at root and /uposatha/; media ranges; missing-cache detection; failed download
-  and mixed-deployment protection; invalid manifest rejection; isolated cache
-  cleanup; no interception of other projects, origins or non-GET requests.
+Automated validation: 47 passing checks
+- 18 existing playback and package checks.
+- 17 GitHub Pages/service-worker checks, extended to verify reader resources
+  and the full reading catalogue while offline at / and /uposatha/.
+- 8 reading checks: source Git hashes, no dropped translation segments,
+  all 423 verses exactly once, deterministic regeneration, storage failures,
+  progress/preferences round-trip, and offline integration.
+- 4 AWS installer tests in isolated temporary directories: checksum rejection,
+  backup/apply/rollback, automatic restore after a simulated write failure,
+  and refusal to modify an unexpected recording set.
 
-INTEGRITY
-All 20 original MP3 files are byte-for-byte unchanged, verified with SHA-256.
-The original illustration, icons, and styles are retained. Calendar rules,
-practice storage and the existing backup format are retained. The visible
-version is updated from the old Version 14 footer to Version 16.
+Browser validation in an installed-app preview harness:
+- All six reading cards and navigation render.
+- Dhammapada chapter switching, 22 px text and night mode work.
+- Closing/reopening restores the saved chapter and scroll position.
+- Heart Sutra content and its new-translation credit render correctly.
+- Reader header layout checked against the complete dialog width.
 
-BROWSER CHECKS
-The installation screen rendered at the root URL.
-The main application rendered at /uposatha/ with a test-only standalone-mode
-simulation, including the calendar, practice tools, chanting and backup panel.
-Opening Namo Tassa and instrumental music both entered playing state, with
-readyState 4 and no media error. Selecting the Tibetan tradition and its Tara
-recording loaded /uposatha/audio/tibetan-om-tare.mp3; the recording entered
-playing state and the instrumental music correctly remained paused.
-The mobile layout was visually checked in a 390-pixel-wide iframe.
+The preview harness is not shipped. Local audio test files are sparse fixtures
+because the GitHub read connector does not return large binary contents.
+No fixture media is part of the update or published changes. All 20 existing
+GitHub recording blobs are retained unchanged; the hosted CI tests use the real
+repository recordings. Offline worker tests use simulated network/cache APIs.
+Physical Android/iOS PWA installation was not tested in this environment.
 
-VERIFICATION LIMITS
-The local preview uses HTTP and does not verify production HTTPS installation
-or a real phone's service-worker lifecycle. Offline checks run the real shipped
-worker code in a simulated Cache/Fetch environment with filesystem-backed
-resources and deterministic media payloads. They are not a physical-device
-offline playback test. Home-screen installation, lock-screen playback and
-browser update handling still need a check on the published HTTPS address.
-Browser checks establish playback state and media readiness, not an independent
-human listening assessment. The original audio bytes are unchanged.
-
-Target repository: https://github.com/hkgogoi/uposatha
-Publishing requires GitHub Pages to serve main /docs; upload verification alone
-does not establish that the HTTPS site is live.
-The existing server installation has not been modified or taken offline.
-No test harness, browser cache, user practice data or login information is
-included in the delivery.
+AWS deployment: the app is portable to the existing root. Installer uses
+/srv/uposatha-download, keeps a full dated /srv/uposatha-backup-* snapshot,
+retains old assets for open tabs, validates all payload checksums, and restores
+the previous shell on a write/verification failure. No service restarts and no
+Caddy configuration edits are performed. The standalone --source-commit flow
+downloads all media from a pinned public GitHub release; the ZIP can reuse only
+matching existing recordings. Remote AWS installation requires running the
+installer on the server; no connected server shell was available here.

@@ -1,10 +1,36 @@
 # Uposatha · GitHub Pages edition
 
-Version 16 · 23 October 2026
+Version 17 · 29 October 2026
 
 This is the existing Uposatha v15 app adapted for GitHub Pages. It includes the
 complete app, the opening Namo Tassa, instrumental music, and all 18 tradition
 recordings. Visitors need no account, email, phone number, API key or backend.
+
+## Reading collection
+
+Open **Read** to use the offline reader. It includes the complete Dhammapada
+(423 verses in 26 chapters), the Heart Sutra, Loving-Kindness, Blessings, the
+First Teaching, and the Eight Precepts discourse. Text size, paper/night mode
+and the current chapter and reading position are saved on the device. Reading
+preferences use a separate key and are not yet part of practice backup files.
+
+Five translations are by Bhikkhu Sujato (SuttaCentral, CC0). The Heart Sutra is
+a clearly credited new English rendering from the short Chinese recension
+T 251. Each text has its own source and reuse information. The source snapshot
+is retained in `maintenance/reading-sources.json`; rebuild the catalogue with
+`python3 maintenance/build_readings.py`. No source site needs to be contacted
+while reading. Wait for **Offline files ready** before disconnecting.
+
+## AWS installation
+
+The same portable static files can update `/srv/uposatha-download`. The
+`maintenance/install_aws.py` installer validates all payload checksums, takes
+a dated backup, retains old assets for open tabs, and rolls back on failure.
+It does not restart services or change Caddy routes. Run `--check` first, then
+`--apply` as root. A saved backup can be restored with `--rollback PATH`.
+The downloadable package uses existing verified recordings. The standalone
+installer can instead download the complete release (including all recordings)
+using `--source-commit FULL_COMMIT_SHA`; use a pinned commit, not a branch name.
 
 ## Publish
 
@@ -74,7 +100,7 @@ can start; background playback depends on the device and browser.
   belonging to other GitHub Pages projects on the same domain.
 - Incomplete offline downloads do not activate the new worker.
 - Offline audio retains byte-range support for seeking and playback.
-- The app now displays Version 16. No AWS installer is required for this edition.
+- The app now displays Version 17. No AWS installer is required for this edition.
 
 The input archive contained compiled JavaScript and CSS, not the original
 editable TypeScript project. This release makes focused changes to those
@@ -91,6 +117,7 @@ After changing files in `docs/`, run:
 python3 maintenance/refresh_release.py
 node maintenance/test_playback.cjs
 node maintenance/test_pages.cjs
+node maintenance/test_readings.cjs
 ```
 
 The refresh script updates the offline asset list and fingerprints the release
@@ -112,3 +139,4 @@ the limits of device-installation testing.
 The repository's existing [LICENSE](LICENSE) is retained. Third-party recordings
 retain their separate credits and licenses in
 [docs/AUDIO_CREDITS.txt](docs/AUDIO_CREDITS.txt).
+

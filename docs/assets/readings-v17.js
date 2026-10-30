@@ -1,13 +1,21 @@
 /* Uposatha's standalone reader uses the app's existing React runtime. */
 export const STORAGE_KEY = 'uposatha-readings-v1';
 const clamp = (n, min, max) => Math.max(min, Math.min(max, n));
+// Keep this allowlist aligned with the bundled catalogue, never browser storage.
+const CHAPTERS = Object.freeze({dhammapada:26, 'heart-sutra':1, metta:1,
+  blessings:1, 'first-teaching':1, 'eight-precepts':1});
+const isRecord = value => !!value && typeof value === 'object' &&
+  !Array.isArray(value) && [Object.prototype, null].includes(Object.getPrototypeOf(value));
 
 export function normalizeState(raw) {
-  const state = raw && typeof raw === 'object' ? raw : {};
+  const state = isRecord(raw) ? raw : {};
   const places = {};
-  for (const [id, place] of Object.entries(state.places && typeof state.places === 'object' ? state.places : {})) {
-    if (!/^[a-z-]+$/.test(id) || !place || !Number.isInteger(place.chapter)) continue;
-    places[id] = {chapter: clamp(place.chapter, 0, 25), ratio: Number.isFinite(place.ratio) ? clamp(place.ratio, 0, 1) : 0};
+  const saved = isRecord(state.places) ? state.places : {};
+  for (const [id, chapters] of Object.entries(CHAPTERS)) {
+    if (!Object.hasOwn(saved, id)) continue;
+    const place = saved[id];
+    if (!isRecord(place) || !Number.isSafeInteger(place.chapter)) continue;
+    places[id] = {chapter: clamp(place.chapter, 0, chapters - 1), ratio: Number.isFinite(place.ratio) ? clamp(place.ratio, 0, 1) : 0};
   }
   return {
     size: Number.isFinite(state.size) ? clamp(state.size, 16, 30) : 20,
@@ -15,12 +23,22 @@ export function normalizeState(raw) {
   };
 }
 
+// An absent/malformed whole record means "leave the destination reader alone".
+// A valid object is sanitized field by field, including explicit empty defaults.
+export function normalizeBackupReading(value) {
+  if (typeof value !== 'string' || value.length > 65536) return null;
+  try {
+    const raw = JSON.parse(value);
+    return isRecord(raw) ? JSON.stringify(normalizeState(raw)) : null;
+  } catch { return null; }
+}
+
 export function readState(storage) {
   try { return normalizeState(JSON.parse(storage.getItem(STORAGE_KEY))); }
   catch { return normalizeState(null); }
 }
 export function writeState(storage, state) {
-  try { storage.setItem(STORAGE_KEY, JSON.stringify(state)); return true; }
+  try { storage.setItem(STORAGE_KEY, JSON.stringify(normalizeState(state))); return true; }
   catch { return false; }
 }
 

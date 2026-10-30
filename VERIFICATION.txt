@@ -1,3 +1,44 @@
+Uposatha Version 18 · 30 October 2026
+
+Reader state is included in the existing version 1 practice backup envelope.
+The shipped backup UI calls the same normalizer as the reader. Export uses the
+existing explicit storage-key allowlist plus uposatha-readings-v1. The reading
+catalogue, sources, audio, manifest, install behavior and calendar calculations
+are unchanged. A new service-worker fingerprint makes this update available to
+installed copies. Old backups retain the destination reader state; malformed
+whole reader records are skipped and the preview explains this. Restore still
+validates all practice data before writes and rolls back affected keys on error.
+
+Automated validation: 65 passing checks
+- 18 existing playback/package checks.
+- 17 GitHub Pages, install identity and offline/service-worker checks at root
+  and /uposatha/, including complete reading catalogue and ranged audio.
+- 8 reading completeness, source, deterministic regeneration and persistence
+  checks, including all 423 Dhammapada verses.
+- 18 new backup checks against the actual shipped backup functions: original
+  practice/calendar/tradition/journal/settings preservation; old and new backup
+  formats; all six reading places in a full JSON export/import/re-export round
+  trip; defaults, missing/invalid data, unknown IDs, per-book chapter bounds,
+  malformed JSON, size limits, unsupported versions, storage allowlisting,
+  atomic rollback and recovery download, and active meditation protection.
+- 4 existing AWS installer tests in isolated temporary directories.
+
+Media verification: local MP3s are sparse fixtures retained from prior work.
+Their trusted repository checksums and all 20 original Git blob IDs are retained;
+fixture media are never published. Hosted CI runs against the real recordings.
+Offline worker tests use simulated network/cache APIs. Physical Android/iOS
+installation is not tested in this environment.
+
+AWS limitation: no AWS installation was performed by this change. The existing
+checksum-verified, backup/rollback installer can deploy this same pinned commit
+to /srv/uposatha-download. Update AWS to version 18 before importing a new
+reader-inclusive backup: older versions reject its extra reader key. Publishing
+Pages cannot migrate another origin's local storage. Export a fresh backup from
+the updated source, then restore it at the updated destination. Existing older
+backup files cannot reconstruct reader data they never contained.
+
+Prior release verification (historical):
+
 Uposatha Version 17 · 29 October 2026
 
 Added six complete English reading texts, adjustable font size (16–30 px),

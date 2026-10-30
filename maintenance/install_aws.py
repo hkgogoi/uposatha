@@ -93,7 +93,7 @@ def apply(target, payload, expected, backup_root, required):
     backup = backup_root/('uposatha-backup-' + stamp)
     backup.mkdir(mode=0o700, parents=True)
     shutil.copytree(target, backup/'site', symlinks=False)
-    (backup/'uposatha-backup.json').write_text(json.dumps({'target':str(target),'version':'17','created':stamp},indent=2)+'\n')
+    (backup/'uposatha-backup.json').write_text(json.dumps({'target':str(target),'version':'18','created':stamp},indent=2)+'\n')
     print('Backup:', backup, flush=True)
     try:
         # Publish worker last so it sees the complete shell and asset inventory.
@@ -103,7 +103,7 @@ def apply(target, payload, expected, backup_root, required):
         for relative, digest in expected.items():
             if hashlib.sha256((target/relative).read_bytes()).hexdigest() != digest:
                 raise ValueError('Post-install check failed: ' + relative)
-        print('Installed Uposatha Version 17 with all six readings.')
+        print('Installed Uposatha Version 18 with all six readings.')
         print('No services restarted and no Caddy configuration changed.')
         print('Rollback: sudo python3 ' + str(Path(__file__).resolve()) + ' --rollback ' + str(backup))
     except BaseException:
@@ -118,7 +118,7 @@ def fetch_release(commit, destination):
     archive = destination/'release.tar.gz'
     url = 'https://codeload.github.com/hkgogoi/uposatha/tar.gz/' + commit
     print('Downloading the pinned Uposatha release from GitHub…', flush=True)
-    request = urllib.request.Request(url, headers={'User-Agent':'Uposatha-Installer/17'})
+    request = urllib.request.Request(url, headers={'User-Agent':'Uposatha-Installer/18'})
     with urllib.request.urlopen(request, timeout=90) as response, archive.open('wb') as stream:
         size = 0
         while True:

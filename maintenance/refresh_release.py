@@ -30,8 +30,8 @@ for file in sorted(site.rglob('*')):
         digests[relative] = hashlib.sha256(body).hexdigest()
 fingerprint = hashlib.sha256(json.dumps(digests,sort_keys=True,separators=(',',':')).encode()).hexdigest()[:16]
 worker = site/'sw.js'
-text, count = re.subn(r"const RELEASE = '[^']+';", "const RELEASE = 'v17-"+fingerprint+"';", worker.read_text())
+text, count = re.subn(r"const RELEASE = '[^']+';", "const RELEASE = 'v18-"+fingerprint+"';", worker.read_text())
 if count != 1: raise SystemExit('Release marker missing or duplicated')
 worker.write_text(text)
-print('Offline release:', 'v17-'+fingerprint)
+print('Offline release:', 'v18-'+fingerprint)
 

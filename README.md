@@ -1,6 +1,6 @@
 # Uposatha · GitHub Pages edition
 
-Version 17 · 29 October 2026
+Version 18 · 30 October 2026
 
 This is the existing Uposatha v15 app adapted for GitHub Pages. It includes the
 complete app, the opening Namo Tassa, instrumental music, and all 18 tradition
@@ -12,7 +12,8 @@ Open **Read** to use the offline reader. It includes the complete Dhammapada
 (423 verses in 26 chapters), the Heart Sutra, Loving-Kindness, Blessings, the
 First Teaching, and the Eight Precepts discourse. Text size, paper/night mode
 and the current chapter and reading position are saved on the device. Reading
-preferences use a separate key and are not yet part of practice backup files.
+preferences use the separate `uposatha-readings-v1` key and are now included
+in practice backup files.
 
 Five translations are by Bhikkhu Sujato (SuttaCentral, CC0). The Heart Sutra is
 a clearly credited new English rendering from the short Chinese recension
@@ -20,6 +21,39 @@ T 251. Each text has its own source and reuse information. The source snapshot
 is retained in `maintenance/reading-sources.json`; rebuild the catalogue with
 `python3 maintenance/build_readings.py`. No source site needs to be contacted
 while reading. Wait for **Offline files ready** before disconnecting.
+
+## Portable practice and reading backups
+
+**Download backup** includes all previously supported practice records and
+settings plus reader font size, paper/night theme, and each text's last selected
+chapter and scroll ratio. Only explicitly supported Uposatha storage keys are
+exported; other browser data and installation flags are excluded. The existing
+`uposatha-device-backup`, version `1` envelope is unchanged; reader data is an
+optional JSON string under `data["uposatha-readings-v1"]`.
+
+- Version 18 restores older backups. If reader data is absent, the device's
+  current reading preferences and places are kept (defaults on a fresh device).
+- Missing or invalid individual reader preferences use safe defaults; numeric
+  values are bounded to 16–30 px, a valid chapter for that text, and a 0–1 scroll
+  ratio. Unknown text IDs and malformed place entries are discarded.
+- Malformed JSON, non-object or oversized reader records are skipped. The
+  restore preview says when the current reading state will be kept. Valid
+  practice information can still be restored. Invalid practice data or unknown
+  storage keys continue to reject the entire import before anything is changed.
+- Restore remains transactional: a storage failure rolls back all affected
+  practice and reading records together. The previous-data recovery download
+  includes the original reading record if rollback cannot finish.
+- Scroll ratios preserve the approximate place across different screen sizes;
+  line wrapping and font changes can move the exact visible line.
+
+**Update both installations to version 18 before transferring a new backup.**
+Version 17 and earlier reject the new reader storage key. AWS and GitHub Pages
+have separate browser storage and service workers; publishing GitHub Pages does
+not update AWS. On the source, wait for version 18 to load, then make a **new**
+backup. On the updated destination, choose it, review it and restore it. Old
+backups cannot recover reading places that were never included in them. There
+is no automatic cross-site sync. External calendar events still require their
+existing calendar import/export workflow.
 
 ## AWS installation
 
@@ -67,7 +101,7 @@ and its private device data cannot be read by the new site.
 3. Close the browser tab and open the newly installed app from its home-screen
    or desktop icon. Select **Choose backup to restore** and review/restore your
    saved JSON file.
-4. Check your tradition, timezone, journal and mantra counts. Keep the old
+4. Check your tradition, timezone, journal, mantra counts and reading places. Keep the old
    installation until you have confirmed that your practice data was restored.
 5. Keep the new app open online until it displays **Offline files ready**.
    The complete application and recordings use approximately 64 MiB.
@@ -100,7 +134,7 @@ can start; background playback depends on the device and browser.
   belonging to other GitHub Pages projects on the same domain.
 - Incomplete offline downloads do not activate the new worker.
 - Offline audio retains byte-range support for seeking and playback.
-- The app now displays Version 17. No AWS installer is required for this edition.
+- The app now displays Version 18. No AWS installer is required for this edition.
 
 The input archive contained compiled JavaScript and CSS, not the original
 editable TypeScript project. This release makes focused changes to those
@@ -118,6 +152,8 @@ python3 maintenance/refresh_release.py
 node maintenance/test_playback.cjs
 node maintenance/test_pages.cjs
 node maintenance/test_readings.cjs
+node maintenance/test_backup.cjs
+python3 maintenance/test_aws.py
 ```
 
 The refresh script updates the offline asset list and fingerprints the release
